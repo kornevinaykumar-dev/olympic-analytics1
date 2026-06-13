@@ -4,6 +4,7 @@ import os
 from datetime import datetime
 from flask import Blueprint, request, jsonify, send_file
 from flask_jwt_extended import jwt_required
+from numpy import sort
 from sqlalchemy import func, desc
 from database import db
 from models import Country, Sport, Olympic, Medal, Prediction
@@ -108,8 +109,13 @@ def medals():
     page = max(request.args.get("page", default=1, type=int), 1)
     per_page = min(max(request.args.get("per_page", default=25, type=int), 1), 200)
 
-    sort_map = {"gold": "g", "silver": "s", "bronze": "b", "total": "t"}
-    sort_col = sort_map.get(sort, "t")
+    sort_map = {
+    "gold": func.sum(Medal.gold),
+    "silver": func.sum(Medal.silver),
+    "bronze": func.sum(Medal.bronze),
+    "total": func.sum(Medal.total),
+}
+    sort_col = sort_map.get(sort, func.sum(Medal.total))
 
     q = (
         db.session.query(
@@ -196,7 +202,7 @@ def sport_analytics(name):
         .join(Medal, Medal.country_id == Country.id)
         .filter(Medal.sport_id == s.id)
         .group_by(Country.country_name)
-        .order_by(desc("t"))
+        .order_by(desc(func.sum(Medal.total)))
         .limit(8)
         .all()
     )
