@@ -16,7 +16,12 @@ class Config:
     DB_NAME = os.getenv("DB_NAME", "olympic_analytics_db")
 
     SQLALCHEMY_DATABASE_URI = (
-        f"mysql+pymysql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
+        f"mysql+pymysql://{os.getenv('DB_USER', 'root')}:"
+        f"{os.getenv('DB_PASSWORD', '')}@"
+        f"{os.getenv('DB_HOST', 'localhost')}:"
+        f"{os.getenv('DB_PORT', '3306')}/"
+        f"{os.getenv('DB_NAME', 'olympic_analytics_db')}"
+        f"?ssl_ca=/etc/ssl/certs/ca-certificates.crt"  # required for Aiven SSL
     )
     SQLALCHEMY_TRACK_MODIFICATIONS = False
 
