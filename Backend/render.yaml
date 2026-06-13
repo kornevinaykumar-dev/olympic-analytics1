@@ -2,6 +2,7 @@ services:
   - type: web
     name: olympic-analytics
     runtime: python
+    pythonVersion: 3.12.10
     rootDir: Backend
     buildCommand: pip install -r requirements.txt
     startCommand: gunicorn app:create_app()
