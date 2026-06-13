@@ -36,6 +36,7 @@ def create_app():
         full = os.path.join(frontend_dir, path)
         if os.path.isfile(full):
             return send_from_directory(frontend_dir, path)
+        # SPA-style fallback to index
         return send_from_directory(frontend_dir, "index.html")
 
     @app.errorhandler(404)
@@ -47,12 +48,7 @@ def create_app():
         return jsonify({"error": "Internal server error"}), 500
 
     with app.app_context():
-        try:
-            db.create_all()
-            print("✅ Database tables created successfully")
-        except Exception as e:
-            print(f"❌ Database connection failed: {e}")
-            raise  # still raise so Render shows the real error in logs
+        db.create_all()
 
     return app
 
