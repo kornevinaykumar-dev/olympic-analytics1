@@ -108,13 +108,8 @@ def medals():
     page = max(request.args.get("page", default=1, type=int), 1)
     per_page = min(max(request.args.get("per_page", default=25, type=int), 1), 200)
 
-    sort_map = {
-        "gold": func.sum(Medal.gold),
-        "silver": func.sum(Medal.silver),
-        "bronze": func.sum(Medal.bronze),
-        "total": func.sum(Medal.total),
-    }
-    sort_col = sort_map.get(sort, func.sum(Medal.total))
+    sort_map = {"gold": "g", "silver": "s", "bronze": "b", "total": "t"}
+    sort_col = sort_map.get(sort, "t")
 
     q = (
         db.session.query(
@@ -139,16 +134,16 @@ def medals():
     total_rows = q.count()
     rows = q.offset((page - 1) * per_page).limit(per_page).all()
     data = []
+
     for i, r in enumerate(rows):
-        row_tuple = tuple(r)
         data.append({
-            "rank": (page - 1) * per_page + i + 1,
-            "country": row_tuple[0],
-            "gold": int(row_tuple[1] or 0),
-            "silver": int(row_tuple[2] or 0),
-            "bronze": int(row_tuple[3] or 0),
-            "total": int(row_tuple[4] or 0),
-        })
+        "rank": (page - 1) * per_page + i + 1,
+        "country": str(r[0]),
+        "gold": int(r[1] or 0),
+        "silver": int(r[2] or 0),
+        "bronze": int(r[3] or 0),
+        "total": int(r[4] or 0),
+    })
     return jsonify({"rows": data, "total": total_rows, "page": page, "per_page": per_page})
 
 
@@ -201,7 +196,7 @@ def sport_analytics(name):
         .join(Medal, Medal.country_id == Country.id)
         .filter(Medal.sport_id == s.id)
         .group_by(Country.country_name)
-        .order_by(desc(func.sum(Medal.total)))
+        .order_by(desc("t"))
         .limit(8)
         .all()
     )
