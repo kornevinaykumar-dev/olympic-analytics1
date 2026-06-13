@@ -1,0 +1,26 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI Insights | Olympic Analytics</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css"></head><body>
+<div id="navbar"></div>
+<main class="container-fluid px-4 py-4">
+<h2 class="mb-4">AI-Generated Insights</h2>
+<div class="row g-3">
+<div class="col-lg-4"><div class="card p-3"><div class="card-header">Country Performance Summary</div>
+<select id="cSel" class="form-select mt-3"></select>
+<button class="btn btn-primary w-100 mt-3" id="cBtn">Generate</button>
+<div class="insights-text mt-3" id="cOut"></div></div></div>
+<div class="col-lg-4"><div class="card p-3"><div class="card-header">Sport Insights</div>
+<select id="sSel" class="form-select mt-3"></select>
+<button class="btn btn-primary w-100 mt-3" id="sBtn">Generate</button>
+<div class="insights-text mt-3" id="sOut"></div></div></div>
+<div class="col-lg-4"><div class="card p-3"><div class="card-header">Overall Olympic Trend</div>
+<button class="btn btn-primary w-100 mt-3" id="tBtn">Generate Trend Analysis</button>
+<div class="insights-text mt-3" id="tOut"></div></div></div>
+</div>
+</main>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+<script src="js/app.js"></script>
+<script src="js/insights.js"></script>
+</body></html>

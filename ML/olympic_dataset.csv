@@ -1,0 +1,2101 @@
+Country,Year,Sport,Athletes,Previous_Gold,Previous_Silver,Previous_Bronze,Participation_Count,Total_Previous_Medals,Target_Medal_Category
+United States,2000,Athletics,25,0,0,0,1,0,Gold
+United States,2000,Swimming,19,0,0,0,1,0,Gold
+United States,2000,Gymnastics,18,0,0,0,1,0,Gold
+United States,2000,Cycling,24,0,0,0,1,0,Gold
+United States,2000,Rowing,27,0,0,0,1,0,Gold
+United States,2000,Boxing,7,0,0,0,1,0,Gold
+United States,2000,Wrestling,12,0,0,0,1,0,Gold
+United States,2000,Weightlifting,13,0,0,0,1,0,Gold
+United States,2000,Shooting,19,0,0,0,1,0,Gold
+United States,2000,Archery,4,0,0,0,1,0,Gold
+United States,2000,Fencing,20,0,0,0,1,0,Gold
+United States,2000,Judo,23,0,0,0,1,0,Gold
+United States,2000,Sailing,5,0,0,0,1,0,Gold
+United States,2000,Diving,28,0,0,0,1,0,Gold
+United States,2000,Hockey,23,0,0,0,1,0,Gold
+China,2000,Athletics,7,0,0,0,1,0,Gold
+China,2000,Swimming,22,0,0,0,1,0,Gold
+China,2000,Gymnastics,12,0,0,0,1,0,Gold
+China,2000,Cycling,12,0,0,0,1,0,Gold
+China,2000,Rowing,20,0,0,0,1,0,Gold
+China,2000,Boxing,22,0,0,0,1,0,Gold
+China,2000,Wrestling,9,0,0,0,1,0,Gold
+China,2000,Weightlifting,20,0,0,0,1,0,Gold
+China,2000,Shooting,6,0,0,0,1,0,Gold
+China,2000,Archery,22,0,0,0,1,0,Gold
+China,2000,Fencing,21,0,0,0,1,0,Gold
+China,2000,Judo,19,0,0,0,1,0,Gold
+China,2000,Sailing,25,0,0,0,1,0,Gold
+China,2000,Diving,12,0,0,0,1,0,Gold
+China,2000,Hockey,16,0,0,0,1,0,Gold
+Japan,2000,Athletics,26,0,0,0,1,0,Gold
+Japan,2000,Swimming,29,0,0,0,1,0,Gold
+Japan,2000,Gymnastics,13,0,0,0,1,0,Gold
+Japan,2000,Cycling,26,0,0,0,1,0,Gold
+Japan,2000,Rowing,5,0,0,0,1,0,Gold
+Japan,2000,Boxing,28,0,0,0,1,0,Gold
+Japan,2000,Wrestling,4,0,0,0,1,0,Gold
+Japan,2000,Weightlifting,4,0,0,0,1,0,Gold
+Japan,2000,Shooting,19,0,0,0,1,0,Gold
+Japan,2000,Archery,21,0,0,0,1,0,Gold
+Japan,2000,Fencing,8,0,0,0,1,0,Gold
+Japan,2000,Judo,23,0,0,0,1,0,Gold
+Japan,2000,Sailing,9,0,0,0,1,0,Gold
+Japan,2000,Diving,19,0,0,0,1,0,Gold
+Japan,2000,Hockey,9,0,0,0,1,0,Gold
+Great Britain,2000,Athletics,12,0,0,0,1,0,Gold
+Great Britain,2000,Swimming,6,0,0,0,1,0,Gold
+Great Britain,2000,Gymnastics,20,0,0,0,1,0,Gold
+Great Britain,2000,Cycling,5,0,0,0,1,0,Gold
+Great Britain,2000,Rowing,15,0,0,0,1,0,Gold
+Great Britain,2000,Boxing,5,0,0,0,1,0,Gold
+Great Britain,2000,Wrestling,27,0,0,0,1,0,Silver
+Great Britain,2000,Weightlifting,15,0,0,0,1,0,Gold
+Great Britain,2000,Shooting,29,0,0,0,1,0,Gold
+Great Britain,2000,Archery,3,0,0,0,1,0,Gold
+Great Britain,2000,Fencing,2,0,0,0,1,0,Gold
+Great Britain,2000,Judo,17,0,0,0,1,0,Gold
+Great Britain,2000,Sailing,30,0,0,0,1,0,Gold
+Great Britain,2000,Diving,27,0,0,0,1,0,Gold
+Great Britain,2000,Hockey,24,0,0,0,1,0,Gold
+Russia,2000,Athletics,6,0,0,0,1,0,Gold
+Russia,2000,Swimming,3,0,0,0,1,0,Gold
+Russia,2000,Gymnastics,20,0,0,0,1,0,Gold
+Russia,2000,Cycling,18,0,0,0,1,0,Gold
+Russia,2000,Rowing,21,0,0,0,1,0,Gold
+Russia,2000,Boxing,14,0,0,0,1,0,Gold
+Russia,2000,Wrestling,21,0,0,0,1,0,Gold
+Russia,2000,Weightlifting,20,0,0,0,1,0,Gold
+Russia,2000,Shooting,9,0,0,0,1,0,Silver
+Russia,2000,Archery,22,0,0,0,1,0,Gold
+Russia,2000,Fencing,16,0,0,0,1,0,Gold
+Russia,2000,Judo,5,0,0,0,1,0,Gold
+Russia,2000,Sailing,30,0,0,0,1,0,Gold
+Russia,2000,Diving,11,0,0,0,1,0,Gold
+Russia,2000,Hockey,27,0,0,0,1,0,Gold
+Germany,2000,Athletics,28,0,0,0,1,0,Gold
+Germany,2000,Swimming,10,0,0,0,1,0,Silver
+Germany,2000,Gymnastics,19,0,0,0,1,0,Gold
+Germany,2000,Cycling,23,0,0,0,1,0,Gold
+Germany,2000,Rowing,17,0,0,0,1,0,Gold
+Germany,2000,Boxing,28,0,0,0,1,0,Gold
+Germany,2000,Wrestling,26,0,0,0,1,0,Gold
+Germany,2000,Weightlifting,24,0,0,0,1,0,Gold
+Germany,2000,Shooting,4,0,0,0,1,0,Gold
+Germany,2000,Archery,13,0,0,0,1,0,Gold
+Germany,2000,Fencing,6,0,0,0,1,0,Gold
+Germany,2000,Judo,3,0,0,0,1,0,Gold
+Germany,2000,Sailing,9,0,0,0,1,0,Gold
+Germany,2000,Diving,21,0,0,0,1,0,Gold
+Germany,2000,Hockey,9,0,0,0,1,0,Gold
+France,2000,Athletics,2,0,0,0,1,0,Gold
+France,2000,Swimming,27,0,0,0,1,0,Silver
+France,2000,Gymnastics,10,0,0,0,1,0,Gold
+France,2000,Cycling,14,0,0,0,1,0,Silver
+France,2000,Rowing,16,0,0,0,1,0,Gold
+France,2000,Boxing,29,0,0,0,1,0,Gold
+France,2000,Wrestling,29,0,0,0,1,0,Gold
+France,2000,Weightlifting,13,0,0,0,1,0,Gold
+France,2000,Shooting,2,0,0,0,1,0,Gold
+France,2000,Archery,7,0,0,0,1,0,Gold
+France,2000,Fencing,13,0,0,0,1,0,Bronze
+France,2000,Judo,21,0,0,0,1,0,Gold
+France,2000,Sailing,3,0,0,0,1,0,Gold
+France,2000,Diving,27,0,0,0,1,0,Gold
+France,2000,Hockey,13,0,0,0,1,0,Silver
+Australia,2000,Athletics,12,0,0,0,1,0,Bronze
+Australia,2000,Swimming,18,0,0,0,1,0,Gold
+Australia,2000,Gymnastics,14,0,0,0,1,0,Gold
+Australia,2000,Cycling,14,0,0,0,1,0,Gold
+Australia,2000,Rowing,21,0,0,0,1,0,Gold
+Australia,2000,Boxing,8,0,0,0,1,0,Silver
+Australia,2000,Wrestling,22,0,0,0,1,0,Gold
+Australia,2000,Weightlifting,27,0,0,0,1,0,Gold
+Australia,2000,Shooting,7,0,0,0,1,0,Silver
+Australia,2000,Archery,4,0,0,0,1,0,Gold
+Australia,2000,Fencing,23,0,0,0,1,0,Silver
+Australia,2000,Judo,17,0,0,0,1,0,Gold
+Australia,2000,Sailing,16,0,0,0,1,0,Gold
+Australia,2000,Diving,17,0,0,0,1,0,Silver
+Australia,2000,Hockey,24,0,0,0,1,0,Gold
+Italy,2000,Athletics,15,0,0,0,1,0,Gold
+Italy,2000,Swimming,24,0,0,0,1,0,Gold
+Italy,2000,Gymnastics,16,0,0,0,1,0,Gold
+Italy,2000,Cycling,18,0,0,0,1,0,Gold
+Italy,2000,Rowing,21,0,0,0,1,0,Gold
+Italy,2000,Boxing,15,0,0,0,1,0,Silver
+Italy,2000,Wrestling,17,0,0,0,1,0,Gold
+Italy,2000,Weightlifting,28,0,0,0,1,0,Bronze
+Italy,2000,Shooting,10,0,0,0,1,0,None
+Italy,2000,Archery,9,0,0,0,1,0,Gold
+Italy,2000,Fencing,9,0,0,0,1,0,Gold
+Italy,2000,Judo,8,0,0,0,1,0,Gold
+Italy,2000,Sailing,8,0,0,0,1,0,Gold
+Italy,2000,Diving,26,0,0,0,1,0,Gold
+Italy,2000,Hockey,14,0,0,0,1,0,Silver
+South Korea,2000,Athletics,11,0,0,0,1,0,Bronze
+South Korea,2000,Swimming,25,0,0,0,1,0,Gold
+South Korea,2000,Gymnastics,30,0,0,0,1,0,Gold
+South Korea,2000,Cycling,12,0,0,0,1,0,Gold
+South Korea,2000,Rowing,25,0,0,0,1,0,Gold
+South Korea,2000,Boxing,2,0,0,0,1,0,Gold
+South Korea,2000,Wrestling,23,0,0,0,1,0,Gold
+South Korea,2000,Weightlifting,3,0,0,0,1,0,Gold
+South Korea,2000,Shooting,16,0,0,0,1,0,Gold
+South Korea,2000,Archery,28,0,0,0,1,0,Silver
+South Korea,2000,Fencing,17,0,0,0,1,0,Gold
+South Korea,2000,Judo,22,0,0,0,1,0,Gold
+South Korea,2000,Sailing,3,0,0,0,1,0,Gold
+South Korea,2000,Diving,6,0,0,0,1,0,Gold
+South Korea,2000,Hockey,5,0,0,0,1,0,Gold
+Netherlands,2000,Athletics,7,0,0,0,1,0,Silver
+Netherlands,2000,Swimming,24,0,0,0,1,0,None
+Netherlands,2000,Gymnastics,2,0,0,0,1,0,Gold
+Netherlands,2000,Cycling,14,0,0,0,1,0,Silver
+Netherlands,2000,Rowing,22,0,0,0,1,0,Silver
+Netherlands,2000,Boxing,11,0,0,0,1,0,Gold
+Netherlands,2000,Wrestling,27,0,0,0,1,0,Gold
+Netherlands,2000,Weightlifting,23,0,0,0,1,0,Gold
+Netherlands,2000,Shooting,28,0,0,0,1,0,Silver
+Netherlands,2000,Archery,13,0,0,0,1,0,Gold
+Netherlands,2000,Fencing,25,0,0,0,1,0,Bronze
+Netherlands,2000,Judo,21,0,0,0,1,0,Bronze
+Netherlands,2000,Sailing,25,0,0,0,1,0,Gold
+Netherlands,2000,Diving,9,0,0,0,1,0,Gold
+Netherlands,2000,Hockey,16,0,0,0,1,0,Gold
+Canada,2000,Athletics,12,0,0,0,1,0,None
+Canada,2000,Swimming,27,0,0,0,1,0,Gold
+Canada,2000,Gymnastics,21,0,0,0,1,0,Gold
+Canada,2000,Cycling,4,0,0,0,1,0,Bronze
+Canada,2000,Rowing,19,0,0,0,1,0,Gold
+Canada,2000,Boxing,27,0,0,0,1,0,None
+Canada,2000,Wrestling,14,0,0,0,1,0,Silver
+Canada,2000,Weightlifting,18,0,0,0,1,0,None
+Canada,2000,Shooting,19,0,0,0,1,0,Bronze
+Canada,2000,Archery,5,0,0,0,1,0,Silver
+Canada,2000,Fencing,25,0,0,0,1,0,Gold
+Canada,2000,Judo,17,0,0,0,1,0,Bronze
+Canada,2000,Sailing,26,0,0,0,1,0,Gold
+Canada,2000,Diving,9,0,0,0,1,0,Bronze
+Canada,2000,Hockey,24,0,0,0,1,0,Gold
+Brazil,2000,Athletics,24,0,0,0,1,0,Bronze
+Brazil,2000,Swimming,26,0,0,0,1,0,Silver
+Brazil,2000,Gymnastics,16,0,0,0,1,0,None
+Brazil,2000,Cycling,10,0,0,0,1,0,Bronze
+Brazil,2000,Rowing,4,0,0,0,1,0,Gold
+Brazil,2000,Boxing,6,0,0,0,1,0,None
+Brazil,2000,Wrestling,5,0,0,0,1,0,Gold
+Brazil,2000,Weightlifting,21,0,0,0,1,0,Gold
+Brazil,2000,Shooting,16,0,0,0,1,0,None
+Brazil,2000,Archery,15,0,0,0,1,0,Bronze
+Brazil,2000,Fencing,26,0,0,0,1,0,Silver
+Brazil,2000,Judo,23,0,0,0,1,0,Bronze
+Brazil,2000,Sailing,15,0,0,0,1,0,Gold
+Brazil,2000,Diving,11,0,0,0,1,0,Bronze
+Brazil,2000,Hockey,4,0,0,0,1,0,Gold
+India,2000,Athletics,27,0,0,0,1,0,Gold
+India,2000,Swimming,5,0,0,0,1,0,None
+India,2000,Gymnastics,10,0,0,0,1,0,None
+India,2000,Cycling,25,0,0,0,1,0,Bronze
+India,2000,Rowing,16,0,0,0,1,0,Gold
+India,2000,Boxing,18,0,0,0,1,0,Gold
+India,2000,Wrestling,21,0,0,0,1,0,None
+India,2000,Weightlifting,4,0,0,0,1,0,Gold
+India,2000,Shooting,29,0,0,0,1,0,Gold
+India,2000,Archery,10,0,0,0,1,0,Bronze
+India,2000,Fencing,7,0,0,0,1,0,None
+India,2000,Judo,20,0,0,0,1,0,Bronze
+India,2000,Sailing,4,0,0,0,1,0,Bronze
+India,2000,Diving,7,0,0,0,1,0,None
+India,2000,Hockey,11,0,0,0,1,0,Bronze
+Spain,2000,Athletics,4,0,0,0,1,0,None
+Spain,2000,Swimming,26,0,0,0,1,0,Bronze
+Spain,2000,Gymnastics,19,0,0,0,1,0,Silver
+Spain,2000,Cycling,18,0,0,0,1,0,None
+Spain,2000,Rowing,8,0,0,0,1,0,Silver
+Spain,2000,Boxing,11,0,0,0,1,0,Bronze
+Spain,2000,Wrestling,21,0,0,0,1,0,Silver
+Spain,2000,Weightlifting,11,0,0,0,1,0,Gold
+Spain,2000,Shooting,5,0,0,0,1,0,Bronze
+Spain,2000,Archery,28,0,0,0,1,0,Gold
+Spain,2000,Fencing,15,0,0,0,1,0,Gold
+Spain,2000,Judo,9,0,0,0,1,0,Gold
+Spain,2000,Sailing,25,0,0,0,1,0,Bronze
+Spain,2000,Diving,10,0,0,0,1,0,Gold
+Spain,2000,Hockey,10,0,0,0,1,0,None
+Hungary,2000,Athletics,11,0,0,0,1,0,Gold
+Hungary,2000,Swimming,16,0,0,0,1,0,Gold
+Hungary,2000,Gymnastics,19,0,0,0,1,0,None
+Hungary,2000,Cycling,24,0,0,0,1,0,Bronze
+Hungary,2000,Rowing,29,0,0,0,1,0,Bronze
+Hungary,2000,Boxing,27,0,0,0,1,0,None
+Hungary,2000,Wrestling,27,0,0,0,1,0,Bronze
+Hungary,2000,Weightlifting,18,0,0,0,1,0,Gold
+Hungary,2000,Shooting,5,0,0,0,1,0,Silver
+Hungary,2000,Archery,25,0,0,0,1,0,Gold
+Hungary,2000,Fencing,6,0,0,0,1,0,Silver
+Hungary,2000,Judo,14,0,0,0,1,0,Gold
+Hungary,2000,Sailing,29,0,0,0,1,0,Gold
+Hungary,2000,Diving,30,0,0,0,1,0,Bronze
+Hungary,2000,Hockey,3,0,0,0,1,0,None
+New Zealand,2000,Athletics,9,0,0,0,1,0,None
+New Zealand,2000,Swimming,5,0,0,0,1,0,None
+New Zealand,2000,Gymnastics,11,0,0,0,1,0,Bronze
+New Zealand,2000,Cycling,27,0,0,0,1,0,None
+New Zealand,2000,Rowing,15,0,0,0,1,0,Gold
+New Zealand,2000,Boxing,7,0,0,0,1,0,None
+New Zealand,2000,Wrestling,17,0,0,0,1,0,Gold
+New Zealand,2000,Weightlifting,16,0,0,0,1,0,Gold
+New Zealand,2000,Shooting,16,0,0,0,1,0,None
+New Zealand,2000,Archery,7,0,0,0,1,0,Silver
+New Zealand,2000,Fencing,15,0,0,0,1,0,Gold
+New Zealand,2000,Judo,11,0,0,0,1,0,None
+New Zealand,2000,Sailing,20,0,0,0,1,0,Silver
+New Zealand,2000,Diving,24,0,0,0,1,0,Bronze
+New Zealand,2000,Hockey,20,0,0,0,1,0,Silver
+Kenya,2000,Athletics,3,0,0,0,1,0,Silver
+Kenya,2000,Swimming,26,0,0,0,1,0,Gold
+Kenya,2000,Gymnastics,13,0,0,0,1,0,None
+Kenya,2000,Cycling,26,0,0,0,1,0,Silver
+Kenya,2000,Rowing,22,0,0,0,1,0,Gold
+Kenya,2000,Boxing,3,0,0,0,1,0,Gold
+Kenya,2000,Wrestling,4,0,0,0,1,0,None
+Kenya,2000,Weightlifting,27,0,0,0,1,0,Gold
+Kenya,2000,Shooting,18,0,0,0,1,0,None
+Kenya,2000,Archery,17,0,0,0,1,0,Bronze
+Kenya,2000,Fencing,29,0,0,0,1,0,Gold
+Kenya,2000,Judo,9,0,0,0,1,0,Bronze
+Kenya,2000,Sailing,14,0,0,0,1,0,Silver
+Kenya,2000,Diving,2,0,0,0,1,0,Gold
+Kenya,2000,Hockey,13,0,0,0,1,0,Gold
+Jamaica,2000,Athletics,13,0,0,0,1,0,None
+Jamaica,2000,Swimming,2,0,0,0,1,0,Silver
+Jamaica,2000,Gymnastics,22,0,0,0,1,0,None
+Jamaica,2000,Cycling,24,0,0,0,1,0,Gold
+Jamaica,2000,Rowing,11,0,0,0,1,0,Silver
+Jamaica,2000,Boxing,9,0,0,0,1,0,Gold
+Jamaica,2000,Wrestling,25,0,0,0,1,0,None
+Jamaica,2000,Weightlifting,20,0,0,0,1,0,None
+Jamaica,2000,Shooting,17,0,0,0,1,0,None
+Jamaica,2000,Archery,10,0,0,0,1,0,None
+Jamaica,2000,Fencing,29,0,0,0,1,0,Gold
+Jamaica,2000,Judo,13,0,0,0,1,0,Gold
+Jamaica,2000,Sailing,8,0,0,0,1,0,None
+Jamaica,2000,Diving,28,0,0,0,1,0,Gold
+Jamaica,2000,Hockey,2,0,0,0,1,0,None
+Cuba,2000,Athletics,6,0,0,0,1,0,Silver
+Cuba,2000,Swimming,20,0,0,0,1,0,Bronze
+Cuba,2000,Gymnastics,12,0,0,0,1,0,Bronze
+Cuba,2000,Cycling,6,0,0,0,1,0,None
+Cuba,2000,Rowing,27,0,0,0,1,0,Silver
+Cuba,2000,Boxing,27,0,0,0,1,0,Gold
+Cuba,2000,Wrestling,2,0,0,0,1,0,None
+Cuba,2000,Weightlifting,25,0,0,0,1,0,None
+Cuba,2000,Shooting,13,0,0,0,1,0,Silver
+Cuba,2000,Archery,3,0,0,0,1,0,None
+Cuba,2000,Fencing,23,0,0,0,1,0,None
+Cuba,2000,Judo,17,0,0,0,1,0,None
+Cuba,2000,Sailing,5,0,0,0,1,0,Silver
+Cuba,2000,Diving,21,0,0,0,1,0,None
+Cuba,2000,Hockey,21,0,0,0,1,0,Bronze
+United States,2004,Athletics,18,5,6,8,2,19,Gold
+United States,2004,Swimming,15,5,8,9,2,22,Gold
+United States,2004,Gymnastics,26,5,6,7,2,18,Gold
+United States,2004,Cycling,15,4,3,4,2,11,Gold
+United States,2004,Rowing,15,3,3,6,2,12,Gold
+United States,2004,Boxing,12,5,6,4,2,15,Gold
+United States,2004,Wrestling,4,3,3,7,2,13,Gold
+United States,2004,Weightlifting,15,6,5,6,2,17,Gold
+United States,2004,Shooting,20,4,3,6,2,13,Gold
+United States,2004,Archery,23,2,6,8,2,16,Gold
+United States,2004,Fencing,29,1,4,3,2,8,Gold
+United States,2004,Judo,11,2,5,6,2,13,Gold
+United States,2004,Sailing,23,4,5,6,2,15,Gold
+United States,2004,Diving,13,4,3,6,2,13,Gold
+United States,2004,Hockey,27,3,5,6,2,14,Gold
+China,2004,Athletics,26,6,5,6,2,17,Gold
+China,2004,Swimming,23,3,5,6,2,14,Gold
+China,2004,Gymnastics,7,4,4,5,2,13,Gold
+China,2004,Cycling,7,4,2,5,2,11,Gold
+China,2004,Rowing,14,3,4,5,2,12,Gold
+China,2004,Boxing,18,4,3,4,2,11,Gold
+China,2004,Wrestling,12,2,3,5,2,10,Gold
+China,2004,Weightlifting,21,3,2,5,2,10,Gold
+China,2004,Shooting,7,2,3,6,2,11,Gold
+China,2004,Archery,15,3,4,6,2,13,Gold
+China,2004,Fencing,10,3,5,7,2,15,Gold
+China,2004,Judo,23,4,5,7,2,16,Gold
+China,2004,Sailing,23,3,4,5,2,12,Gold
+China,2004,Diving,8,5,6,5,2,16,Gold
+China,2004,Hockey,6,1,5,6,2,12,Gold
+Japan,2004,Athletics,15,6,5,6,2,17,Gold
+Japan,2004,Swimming,24,1,6,9,2,16,Gold
+Japan,2004,Gymnastics,14,2,2,4,2,8,Gold
+Japan,2004,Cycling,2,3,4,3,2,10,Gold
+Japan,2004,Rowing,14,5,2,3,2,10,Gold
+Japan,2004,Boxing,5,2,6,3,2,11,Gold
+Japan,2004,Wrestling,16,3,3,5,2,11,Silver
+Japan,2004,Weightlifting,4,4,5,5,2,14,Gold
+Japan,2004,Shooting,4,4,3,6,2,13,Gold
+Japan,2004,Archery,12,4,5,6,2,15,Gold
+Japan,2004,Fencing,18,2,4,2,2,8,Gold
+Japan,2004,Judo,13,2,3,3,2,8,Gold
+Japan,2004,Sailing,5,2,3,4,2,9,Gold
+Japan,2004,Diving,21,3,4,5,2,12,Gold
+Japan,2004,Hockey,22,3,5,6,2,14,Gold
+Great Britain,2004,Athletics,26,5,5,6,2,16,Gold
+Great Britain,2004,Swimming,21,4,5,5,2,14,Gold
+Great Britain,2004,Gymnastics,12,2,3,2,2,7,Gold
+Great Britain,2004,Cycling,10,1,4,4,2,9,Gold
+Great Britain,2004,Rowing,4,2,3,3,2,8,Gold
+Great Britain,2004,Boxing,4,1,4,2,2,7,Gold
+Great Britain,2004,Wrestling,4,0,5,5,2,10,Gold
+Great Britain,2004,Weightlifting,27,3,3,5,2,11,Gold
+Great Britain,2004,Shooting,27,4,4,6,2,14,Gold
+Great Britain,2004,Archery,3,4,3,5,2,12,Gold
+Great Britain,2004,Fencing,28,1,2,3,2,6,Gold
+Great Britain,2004,Judo,9,5,3,5,2,13,Gold
+Great Britain,2004,Sailing,18,2,1,4,2,7,Gold
+Great Britain,2004,Diving,15,4,4,5,2,13,Gold
+Great Britain,2004,Hockey,3,2,4,3,2,9,Gold
+Russia,2004,Athletics,23,7,3,3,2,13,Gold
+Russia,2004,Swimming,29,2,4,6,2,12,Gold
+Russia,2004,Gymnastics,20,1,3,4,2,8,Gold
+Russia,2004,Cycling,11,2,0,4,2,6,Gold
+Russia,2004,Rowing,4,4,6,4,2,14,Gold
+Russia,2004,Boxing,27,3,5,5,2,13,Gold
+Russia,2004,Wrestling,23,4,5,4,2,13,Gold
+Russia,2004,Weightlifting,23,4,5,5,2,14,Silver
+Russia,2004,Shooting,8,0,3,4,2,7,Gold
+Russia,2004,Archery,8,4,3,4,2,11,Gold
+Russia,2004,Fencing,5,2,4,4,2,10,Gold
+Russia,2004,Judo,25,2,2,2,2,6,Gold
+Russia,2004,Sailing,6,3,3,3,2,9,Gold
+Russia,2004,Diving,7,5,4,4,2,13,Gold
+Russia,2004,Hockey,16,4,5,3,2,12,Gold
+Germany,2004,Athletics,25,1,4,5,2,10,Gold
+Germany,2004,Swimming,16,0,3,7,2,10,Gold
+Germany,2004,Gymnastics,27,4,3,4,2,11,Gold
+Germany,2004,Cycling,20,3,4,4,2,11,Gold
+Germany,2004,Rowing,11,3,2,2,2,7,Gold
+Germany,2004,Boxing,8,2,5,5,2,12,Gold
+Germany,2004,Wrestling,10,3,3,3,2,9,Gold
+Germany,2004,Weightlifting,24,4,5,4,2,13,Gold
+Germany,2004,Shooting,11,3,2,3,2,8,Gold
+Germany,2004,Archery,28,4,2,4,2,10,Gold
+Germany,2004,Fencing,9,2,2,3,2,7,Gold
+Germany,2004,Judo,14,3,3,7,2,13,Gold
+Germany,2004,Sailing,4,1,3,3,2,7,Gold
+Germany,2004,Diving,22,1,2,1,2,4,Gold
+Germany,2004,Hockey,3,1,3,0,2,4,Gold
+France,2004,Athletics,24,5,1,5,2,11,Gold
+France,2004,Swimming,30,0,4,7,2,11,Gold
+France,2004,Gymnastics,25,4,2,5,2,11,Gold
+France,2004,Cycling,26,0,3,5,2,8,Silver
+France,2004,Rowing,27,3,0,3,2,6,Gold
+France,2004,Boxing,28,4,1,5,2,10,Gold
+France,2004,Wrestling,9,2,3,3,2,8,Gold
+France,2004,Weightlifting,2,3,4,4,2,11,Gold
+France,2004,Shooting,4,1,1,5,2,7,Gold
+France,2004,Archery,18,2,5,5,2,12,Gold
+France,2004,Fencing,29,0,0,5,2,5,Silver
+France,2004,Judo,13,2,2,2,2,6,Gold
+France,2004,Sailing,25,2,2,4,2,8,Gold
+France,2004,Diving,20,1,2,3,2,6,Gold
+France,2004,Hockey,28,0,2,3,2,5,Gold
+Australia,2004,Athletics,23,0,0,5,2,5,Gold
+Australia,2004,Swimming,4,1,1,5,2,7,Silver
+Australia,2004,Gymnastics,3,3,2,4,2,9,Silver
+Australia,2004,Cycling,11,1,0,3,2,4,Gold
+Australia,2004,Rowing,19,3,1,0,2,4,Gold
+Australia,2004,Boxing,29,0,1,3,2,4,Gold
+Australia,2004,Wrestling,12,1,0,3,2,4,Gold
+Australia,2004,Weightlifting,16,1,3,2,2,6,Gold
+Australia,2004,Shooting,7,0,4,1,2,5,Gold
+Australia,2004,Archery,27,1,1,1,2,3,Silver
+Australia,2004,Fencing,15,0,3,0,2,3,Gold
+Australia,2004,Judo,4,1,4,3,2,8,Bronze
+Australia,2004,Sailing,16,2,0,1,2,3,Gold
+Australia,2004,Diving,3,0,3,3,2,6,Silver
+Australia,2004,Hockey,21,3,1,3,2,7,Silver
+Italy,2004,Athletics,4,4,3,3,2,10,Gold
+Italy,2004,Swimming,18,1,3,5,2,9,Gold
+Italy,2004,Gymnastics,21,1,2,2,2,5,Gold
+Italy,2004,Cycling,6,4,3,3,2,10,Gold
+Italy,2004,Rowing,20,3,1,5,2,9,Gold
+Italy,2004,Boxing,16,0,3,0,2,3,Gold
+Italy,2004,Wrestling,18,2,0,4,2,6,Gold
+Italy,2004,Weightlifting,10,0,0,3,2,3,Silver
+Italy,2004,Shooting,14,0,0,0,2,0,Gold
+Italy,2004,Archery,26,1,0,3,2,4,Silver
+Italy,2004,Fencing,17,1,3,1,2,5,Gold
+Italy,2004,Judo,4,1,1,3,2,5,Gold
+Italy,2004,Sailing,23,2,2,1,2,5,Silver
+Italy,2004,Diving,23,1,2,1,2,4,Gold
+Italy,2004,Hockey,29,0,1,4,2,5,Gold
+South Korea,2004,Athletics,24,0,0,3,2,3,Gold
+South Korea,2004,Swimming,8,1,0,4,2,5,Bronze
+South Korea,2004,Gymnastics,17,1,1,0,2,2,Gold
+South Korea,2004,Cycling,19,1,2,1,2,4,Gold
+South Korea,2004,Rowing,4,1,0,0,2,1,Gold
+South Korea,2004,Boxing,26,2,3,3,2,8,Silver
+South Korea,2004,Wrestling,6,2,3,1,2,6,Bronze
+South Korea,2004,Weightlifting,13,3,2,3,2,8,Gold
+South Korea,2004,Shooting,19,2,1,3,2,6,Gold
+South Korea,2004,Archery,29,0,3,0,2,3,Silver
+South Korea,2004,Fencing,6,2,0,3,2,5,Gold
+South Korea,2004,Judo,18,2,1,3,2,6,Gold
+South Korea,2004,Sailing,10,1,4,3,2,8,Gold
+South Korea,2004,Diving,21,1,0,2,2,3,Gold
+South Korea,2004,Hockey,7,1,1,3,2,5,Gold
+Netherlands,2004,Athletics,30,0,1,1,2,2,Silver
+Netherlands,2004,Swimming,20,0,0,0,2,0,Gold
+Netherlands,2004,Gymnastics,26,2,3,2,2,7,Gold
+Netherlands,2004,Cycling,26,0,2,0,2,2,Gold
+Netherlands,2004,Rowing,19,0,2,3,2,5,Bronze
+Netherlands,2004,Boxing,17,1,1,3,2,5,Gold
+Netherlands,2004,Wrestling,24,2,0,4,2,6,Gold
+Netherlands,2004,Weightlifting,17,3,2,2,2,7,Gold
+Netherlands,2004,Shooting,12,0,2,0,2,2,Silver
+Netherlands,2004,Archery,14,3,0,1,2,4,Gold
+Netherlands,2004,Fencing,16,0,0,1,2,1,Gold
+Netherlands,2004,Judo,6,0,0,1,2,1,Silver
+Netherlands,2004,Sailing,9,1,0,0,2,1,Gold
+Netherlands,2004,Diving,28,1,0,1,2,2,Gold
+Netherlands,2004,Hockey,17,1,0,2,2,3,Silver
+Canada,2004,Athletics,30,0,0,0,2,0,Gold
+Canada,2004,Swimming,9,3,1,2,2,6,Silver
+Canada,2004,Gymnastics,3,1,1,2,2,4,Silver
+Canada,2004,Cycling,11,0,0,4,2,4,Silver
+Canada,2004,Rowing,15,1,1,2,2,4,None
+Canada,2004,Boxing,3,0,0,0,2,0,Gold
+Canada,2004,Wrestling,8,0,2,1,2,3,Gold
+Canada,2004,Weightlifting,19,0,0,0,2,0,Silver
+Canada,2004,Shooting,23,0,0,5,2,5,Gold
+Canada,2004,Archery,12,0,2,1,2,3,Bronze
+Canada,2004,Fencing,6,1,0,0,2,1,Gold
+Canada,2004,Judo,6,0,0,1,2,1,Gold
+Canada,2004,Sailing,18,1,0,3,2,4,None
+Canada,2004,Diving,21,0,0,2,2,2,Silver
+Canada,2004,Hockey,21,1,0,2,2,3,Bronze
+Brazil,2004,Athletics,19,0,0,2,2,2,None
+Brazil,2004,Swimming,17,0,2,0,2,2,Gold
+Brazil,2004,Gymnastics,20,0,0,0,2,0,Gold
+Brazil,2004,Cycling,29,0,0,3,2,3,Bronze
+Brazil,2004,Rowing,27,1,0,1,2,2,None
+Brazil,2004,Boxing,9,0,0,0,2,0,Gold
+Brazil,2004,Wrestling,21,1,2,0,2,3,Bronze
+Brazil,2004,Weightlifting,28,4,0,0,2,4,Gold
+Brazil,2004,Shooting,2,0,0,0,2,0,Bronze
+Brazil,2004,Archery,15,0,0,2,2,2,Bronze
+Brazil,2004,Fencing,29,0,2,0,2,2,Bronze
+Brazil,2004,Judo,24,0,0,1,2,1,Silver
+Brazil,2004,Sailing,18,1,1,0,2,2,Gold
+Brazil,2004,Diving,16,0,0,1,2,1,Gold
+Brazil,2004,Hockey,25,1,0,0,2,1,Gold
+India,2004,Athletics,10,2,0,0,2,2,Gold
+India,2004,Swimming,9,0,0,0,2,0,None
+India,2004,Gymnastics,26,0,0,0,2,0,Gold
+India,2004,Cycling,13,0,0,1,2,1,Silver
+India,2004,Rowing,25,1,1,0,2,2,None
+India,2004,Boxing,14,1,1,0,2,2,Silver
+India,2004,Wrestling,27,0,0,0,2,0,Silver
+India,2004,Weightlifting,16,1,0,0,2,1,None
+India,2004,Shooting,8,1,0,2,2,3,None
+India,2004,Archery,6,0,0,2,2,2,Silver
+India,2004,Fencing,9,0,0,0,2,0,Silver
+India,2004,Judo,3,0,0,1,2,1,Silver
+India,2004,Sailing,17,0,0,1,2,1,Silver
+India,2004,Diving,7,0,0,0,2,0,Gold
+India,2004,Hockey,30,0,0,2,2,2,Bronze
+Spain,2004,Athletics,11,0,0,0,2,0,None
+Spain,2004,Swimming,4,0,0,1,2,1,None
+Spain,2004,Gymnastics,3,0,1,2,2,3,None
+Spain,2004,Cycling,30,0,0,0,2,0,Silver
+Spain,2004,Rowing,27,0,2,0,2,2,Gold
+Spain,2004,Boxing,29,0,0,1,2,1,None
+Spain,2004,Wrestling,5,0,1,3,2,4,Gold
+Spain,2004,Weightlifting,16,2,0,0,2,2,Silver
+Spain,2004,Shooting,29,0,0,4,2,4,Gold
+Spain,2004,Archery,27,2,0,0,2,2,None
+Spain,2004,Fencing,7,1,2,0,2,3,None
+Spain,2004,Judo,11,2,2,0,2,4,Silver
+Spain,2004,Sailing,30,0,0,1,2,1,Bronze
+Spain,2004,Diving,12,1,2,0,2,3,Gold
+Spain,2004,Hockey,12,0,0,0,2,0,Gold
+Hungary,2004,Athletics,14,2,0,0,2,2,None
+Hungary,2004,Swimming,25,1,0,0,2,1,Silver
+Hungary,2004,Gymnastics,13,0,0,0,2,0,None
+Hungary,2004,Cycling,14,0,0,2,2,2,Bronze
+Hungary,2004,Rowing,30,0,0,1,2,1,None
+Hungary,2004,Boxing,11,0,0,0,2,0,Bronze
+Hungary,2004,Wrestling,6,0,0,3,2,3,Gold
+Hungary,2004,Weightlifting,24,1,0,0,2,1,Bronze
+Hungary,2004,Shooting,19,0,1,0,2,1,None
+Hungary,2004,Archery,21,1,0,0,2,1,None
+Hungary,2004,Fencing,16,0,1,2,2,3,None
+Hungary,2004,Judo,28,2,1,0,2,3,Bronze
+Hungary,2004,Sailing,20,1,0,0,2,1,None
+Hungary,2004,Diving,23,0,0,2,2,2,Bronze
+Hungary,2004,Hockey,4,0,0,0,2,0,Bronze
+New Zealand,2004,Athletics,15,0,0,0,2,0,Gold
+New Zealand,2004,Swimming,16,0,0,0,2,0,None
+New Zealand,2004,Gymnastics,2,0,0,1,2,1,Bronze
+New Zealand,2004,Cycling,3,0,0,0,2,0,None
+New Zealand,2004,Rowing,30,1,0,0,2,1,Silver
+New Zealand,2004,Boxing,3,0,0,0,2,0,Silver
+New Zealand,2004,Wrestling,25,1,1,0,2,2,Silver
+New Zealand,2004,Weightlifting,30,1,0,0,2,1,Gold
+New Zealand,2004,Shooting,23,0,0,0,2,0,Silver
+New Zealand,2004,Archery,6,0,1,0,2,1,Silver
+New Zealand,2004,Fencing,18,2,1,1,2,4,Bronze
+New Zealand,2004,Judo,28,0,0,0,2,0,Gold
+New Zealand,2004,Sailing,19,0,1,0,2,1,None
+New Zealand,2004,Diving,9,0,0,1,2,1,Gold
+New Zealand,2004,Hockey,25,0,3,0,2,3,Silver
+Kenya,2004,Athletics,23,0,1,0,2,1,Gold
+Kenya,2004,Swimming,8,2,0,2,2,4,Silver
+Kenya,2004,Gymnastics,16,0,0,0,2,0,Silver
+Kenya,2004,Cycling,14,0,1,0,2,1,Bronze
+Kenya,2004,Rowing,26,2,0,0,2,2,Bronze
+Kenya,2004,Boxing,28,1,1,2,2,4,None
+Kenya,2004,Wrestling,20,0,0,0,2,0,Silver
+Kenya,2004,Weightlifting,6,1,0,0,2,1,None
+Kenya,2004,Shooting,15,0,0,0,2,0,Gold
+Kenya,2004,Archery,7,0,0,2,2,2,Bronze
+Kenya,2004,Fencing,17,2,1,0,2,3,None
+Kenya,2004,Judo,18,0,0,1,2,1,Gold
+Kenya,2004,Sailing,6,0,1,0,2,1,Bronze
+Kenya,2004,Diving,9,2,0,0,2,2,Silver
+Kenya,2004,Hockey,27,1,0,1,2,2,Bronze
+Jamaica,2004,Athletics,18,0,0,0,2,0,None
+Jamaica,2004,Swimming,8,0,1,1,2,2,Gold
+Jamaica,2004,Gymnastics,19,0,0,0,2,0,None
+Jamaica,2004,Cycling,10,1,2,1,2,4,None
+Jamaica,2004,Rowing,27,0,1,2,2,3,Silver
+Jamaica,2004,Boxing,19,2,0,0,2,2,None
+Jamaica,2004,Wrestling,2,0,0,0,2,0,Silver
+Jamaica,2004,Weightlifting,25,0,0,0,2,0,Bronze
+Jamaica,2004,Shooting,21,0,0,0,2,0,Gold
+Jamaica,2004,Archery,9,0,0,0,2,0,None
+Jamaica,2004,Fencing,13,1,0,0,2,1,None
+Jamaica,2004,Judo,30,1,0,3,2,4,Gold
+Jamaica,2004,Sailing,28,0,0,0,2,0,Bronze
+Jamaica,2004,Diving,12,1,3,0,2,4,Bronze
+Jamaica,2004,Hockey,10,0,0,0,2,0,Silver
+Cuba,2004,Athletics,25,0,1,0,2,1,Gold
+Cuba,2004,Swimming,28,0,0,1,2,1,None
+Cuba,2004,Gymnastics,23,0,0,3,2,3,Gold
+Cuba,2004,Cycling,25,0,0,0,2,0,Silver
+Cuba,2004,Rowing,27,0,1,0,2,1,None
+Cuba,2004,Boxing,30,1,2,0,2,3,None
+Cuba,2004,Wrestling,3,0,0,0,2,0,None
+Cuba,2004,Weightlifting,3,0,0,0,2,0,Bronze
+Cuba,2004,Shooting,28,0,1,1,2,2,Gold
+Cuba,2004,Archery,16,0,0,0,2,0,None
+Cuba,2004,Fencing,23,0,0,0,2,0,Bronze
+Cuba,2004,Judo,19,0,0,0,2,0,Gold
+Cuba,2004,Sailing,18,0,1,0,2,1,None
+Cuba,2004,Diving,24,0,0,0,2,0,None
+Cuba,2004,Hockey,7,0,0,1,2,1,Gold
+United States,2008,Athletics,18,4,5,6,3,15,Gold
+United States,2008,Swimming,27,8,5,9,3,22,Gold
+United States,2008,Gymnastics,24,5,6,7,3,18,Gold
+United States,2008,Cycling,29,2,2,4,3,8,Gold
+United States,2008,Rowing,14,3,5,5,3,13,Gold
+United States,2008,Boxing,3,5,4,4,3,13,Gold
+United States,2008,Wrestling,22,3,3,7,3,13,Gold
+United States,2008,Weightlifting,29,6,5,6,3,17,Gold
+United States,2008,Shooting,30,5,6,6,3,17,Gold
+United States,2008,Archery,17,2,6,5,3,13,Gold
+United States,2008,Fencing,19,4,5,4,3,13,Gold
+United States,2008,Judo,29,2,5,5,3,12,Gold
+United States,2008,Sailing,24,3,4,5,3,12,Gold
+United States,2008,Diving,11,3,2,6,3,11,Gold
+United States,2008,Hockey,30,4,3,6,3,13,Gold
+China,2008,Athletics,25,3,4,8,3,15,Gold
+China,2008,Swimming,13,5,4,6,3,15,Gold
+China,2008,Gymnastics,28,3,5,5,3,13,Gold
+China,2008,Cycling,26,3,6,6,3,15,Gold
+China,2008,Rowing,27,3,5,4,3,12,Gold
+China,2008,Boxing,15,5,5,6,3,16,Gold
+China,2008,Wrestling,14,3,4,6,3,13,Gold
+China,2008,Weightlifting,4,4,5,3,3,12,Gold
+China,2008,Shooting,27,6,4,5,3,15,Gold
+China,2008,Archery,2,3,4,6,3,13,Gold
+China,2008,Fencing,26,4,3,5,3,12,Gold
+China,2008,Judo,19,3,6,5,3,14,Gold
+China,2008,Sailing,4,4,3,4,3,11,Gold
+China,2008,Diving,14,3,5,5,3,13,Gold
+China,2008,Hockey,26,3,4,6,3,13,Gold
+Japan,2008,Athletics,20,4,4,8,3,16,Gold
+Japan,2008,Swimming,7,5,6,7,3,18,Gold
+Japan,2008,Gymnastics,15,3,6,4,3,13,Gold
+Japan,2008,Cycling,27,2,4,4,3,10,Gold
+Japan,2008,Rowing,21,2,4,4,3,10,Gold
+Japan,2008,Boxing,6,4,3,3,3,10,Gold
+Japan,2008,Wrestling,27,0,6,6,3,12,Gold
+Japan,2008,Weightlifting,15,5,5,2,3,12,Gold
+Japan,2008,Shooting,12,2,4,3,3,9,Gold
+Japan,2008,Archery,17,3,3,5,3,11,Gold
+Japan,2008,Fencing,24,3,6,6,3,15,Gold
+Japan,2008,Judo,27,4,1,4,3,9,Gold
+Japan,2008,Sailing,5,1,6,4,3,11,Gold
+Japan,2008,Diving,19,2,4,5,3,11,Gold
+Japan,2008,Hockey,24,4,5,8,3,17,Gold
+Great Britain,2008,Athletics,28,5,3,6,3,14,Gold
+Great Britain,2008,Swimming,17,2,4,7,3,13,Gold
+Great Britain,2008,Gymnastics,10,2,2,8,3,12,Gold
+Great Britain,2008,Cycling,21,3,4,3,3,10,Gold
+Great Britain,2008,Rowing,18,3,2,3,3,8,Gold
+Great Britain,2008,Boxing,13,2,5,7,3,14,Gold
+Great Britain,2008,Wrestling,21,3,1,1,3,5,Gold
+Great Britain,2008,Weightlifting,13,2,2,2,3,6,Gold
+Great Britain,2008,Shooting,20,3,3,4,3,10,Gold
+Great Britain,2008,Archery,27,2,3,3,3,8,Gold
+Great Britain,2008,Fencing,10,2,1,5,3,8,Gold
+Great Britain,2008,Judo,9,2,5,3,3,10,Gold
+Great Britain,2008,Sailing,26,3,2,0,3,5,Gold
+Great Britain,2008,Diving,17,2,3,3,3,8,Gold
+Great Britain,2008,Hockey,4,3,4,2,3,9,Gold
+Russia,2008,Athletics,16,4,3,6,3,13,Gold
+Russia,2008,Swimming,13,3,3,6,3,12,Gold
+Russia,2008,Gymnastics,11,1,1,5,3,7,Gold
+Russia,2008,Cycling,2,2,2,1,3,5,Gold
+Russia,2008,Rowing,25,4,3,2,3,9,Gold
+Russia,2008,Boxing,7,3,3,5,3,11,Gold
+Russia,2008,Wrestling,22,2,4,3,3,9,Gold
+Russia,2008,Weightlifting,15,0,3,3,3,6,Gold
+Russia,2008,Shooting,15,1,4,3,3,8,Gold
+Russia,2008,Archery,8,3,2,6,3,11,Gold
+Russia,2008,Fencing,27,2,4,6,3,12,Gold
+Russia,2008,Judo,12,3,1,4,3,8,Gold
+Russia,2008,Sailing,22,3,3,2,3,8,Gold
+Russia,2008,Diving,14,4,2,3,3,9,Gold
+Russia,2008,Hockey,28,3,1,4,3,8,Gold
+Germany,2008,Athletics,21,2,5,5,3,12,Gold
+Germany,2008,Swimming,5,3,5,4,3,12,Gold
+Germany,2008,Gymnastics,18,4,3,5,3,12,Gold
+Germany,2008,Cycling,17,3,0,4,3,7,Gold
+Germany,2008,Rowing,22,4,4,3,3,11,Gold
+Germany,2008,Boxing,7,2,1,3,3,6,Gold
+Germany,2008,Wrestling,3,2,3,3,3,8,Gold
+Germany,2008,Weightlifting,14,3,3,1,3,7,Gold
+Germany,2008,Shooting,17,4,4,1,3,9,Gold
+Germany,2008,Archery,7,3,3,2,3,8,Gold
+Germany,2008,Fencing,26,2,0,5,3,7,Gold
+Germany,2008,Judo,26,3,0,5,3,8,Gold
+Germany,2008,Sailing,26,1,2,3,3,6,Gold
+Germany,2008,Diving,19,2,3,6,3,11,Gold
+Germany,2008,Hockey,28,1,2,4,3,7,Gold
+France,2008,Athletics,15,2,6,4,3,12,Gold
+France,2008,Swimming,26,2,1,4,3,7,Gold
+France,2008,Gymnastics,29,3,3,4,3,10,Gold
+France,2008,Cycling,5,0,1,2,3,3,Gold
+France,2008,Rowing,13,1,3,4,3,8,Gold
+France,2008,Boxing,15,2,2,3,3,7,Silver
+France,2008,Wrestling,3,3,1,5,3,9,Gold
+France,2008,Weightlifting,21,2,2,2,3,6,Gold
+France,2008,Shooting,10,1,2,1,3,4,Gold
+France,2008,Archery,30,3,1,3,3,7,Gold
+France,2008,Fencing,3,0,2,3,3,5,Gold
+France,2008,Judo,6,2,0,3,3,5,Gold
+France,2008,Sailing,9,2,3,3,3,8,Gold
+France,2008,Diving,17,1,2,2,3,5,Gold
+France,2008,Hockey,4,2,1,5,3,8,Gold
+Australia,2008,Athletics,4,3,1,2,3,6,Gold
+Australia,2008,Swimming,16,0,3,2,3,5,Silver
+Australia,2008,Gymnastics,2,0,2,0,3,2,Silver
+Australia,2008,Cycling,22,1,2,3,3,6,Gold
+Australia,2008,Rowing,4,2,0,2,3,4,Gold
+Australia,2008,Boxing,17,1,2,2,3,5,Gold
+Australia,2008,Wrestling,12,1,2,0,3,3,Gold
+Australia,2008,Weightlifting,30,1,4,1,3,6,Gold
+Australia,2008,Shooting,5,2,3,2,3,7,Silver
+Australia,2008,Archery,7,0,2,4,3,6,Bronze
+Australia,2008,Fencing,15,1,3,3,3,7,Gold
+Australia,2008,Judo,7,0,0,1,3,1,Gold
+Australia,2008,Sailing,4,1,1,3,3,5,Gold
+Australia,2008,Diving,7,0,1,2,3,3,Gold
+Australia,2008,Hockey,25,0,2,0,3,2,Gold
+Italy,2008,Athletics,2,3,2,6,3,11,Gold
+Italy,2008,Swimming,20,1,2,2,3,5,Silver
+Italy,2008,Gymnastics,28,2,0,3,3,5,Gold
+Italy,2008,Cycling,24,1,1,1,3,3,Gold
+Italy,2008,Rowing,5,3,3,1,3,7,Gold
+Italy,2008,Boxing,11,2,2,2,3,6,Gold
+Italy,2008,Wrestling,23,2,1,2,3,5,Gold
+Italy,2008,Weightlifting,2,0,1,3,3,4,Gold
+Italy,2008,Shooting,25,1,2,2,3,5,Gold
+Italy,2008,Archery,23,0,2,2,3,4,Gold
+Italy,2008,Fencing,5,1,3,3,3,7,Silver
+Italy,2008,Judo,15,1,2,3,3,6,Gold
+Italy,2008,Sailing,19,0,2,1,3,3,Gold
+Italy,2008,Diving,11,1,5,1,3,7,Gold
+Italy,2008,Hockey,11,1,2,0,3,3,Gold
+South Korea,2008,Athletics,8,1,3,4,3,8,Silver
+South Korea,2008,Swimming,9,0,0,2,3,2,Gold
+South Korea,2008,Gymnastics,17,1,2,1,3,4,Gold
+South Korea,2008,Cycling,13,2,2,0,3,4,Gold
+South Korea,2008,Rowing,29,2,3,4,3,9,Gold
+South Korea,2008,Boxing,17,0,6,1,3,7,Gold
+South Korea,2008,Wrestling,2,0,0,3,3,3,Gold
+South Korea,2008,Weightlifting,27,3,1,0,3,4,Gold
+South Korea,2008,Shooting,24,1,3,3,3,7,Gold
+South Korea,2008,Archery,19,0,1,3,3,4,Silver
+South Korea,2008,Fencing,4,1,2,2,3,5,Silver
+South Korea,2008,Judo,19,1,2,3,3,6,Silver
+South Korea,2008,Sailing,26,1,3,0,3,4,Gold
+South Korea,2008,Diving,25,2,4,1,3,7,Gold
+South Korea,2008,Hockey,9,3,0,1,3,4,Gold
+Netherlands,2008,Athletics,11,0,1,3,3,4,Gold
+Netherlands,2008,Swimming,7,2,0,0,3,2,Gold
+Netherlands,2008,Gymnastics,13,3,2,4,3,9,Gold
+Netherlands,2008,Cycling,25,2,0,0,3,2,Bronze
+Netherlands,2008,Rowing,25,0,0,4,3,4,Gold
+Netherlands,2008,Boxing,2,1,0,5,3,6,Silver
+Netherlands,2008,Wrestling,20,1,3,0,3,4,Silver
+Netherlands,2008,Weightlifting,18,1,2,2,3,5,None
+Netherlands,2008,Shooting,10,0,1,3,3,4,Silver
+Netherlands,2008,Archery,23,2,1,0,3,3,Silver
+Netherlands,2008,Fencing,29,1,2,0,3,3,Bronze
+Netherlands,2008,Judo,13,0,2,2,3,4,Gold
+Netherlands,2008,Sailing,19,1,2,0,3,3,Silver
+Netherlands,2008,Diving,22,2,4,0,3,6,Silver
+Netherlands,2008,Hockey,10,0,2,0,3,2,Silver
+Canada,2008,Athletics,5,3,2,1,3,6,Gold
+Canada,2008,Swimming,3,0,1,3,3,4,Silver
+Canada,2008,Gymnastics,16,0,1,2,3,3,Gold
+Canada,2008,Cycling,16,0,2,2,3,4,Gold
+Canada,2008,Rowing,20,0,0,0,3,0,Gold
+Canada,2008,Boxing,17,1,1,0,3,2,Gold
+Canada,2008,Wrestling,25,1,0,2,3,3,Gold
+Canada,2008,Weightlifting,15,0,1,0,3,1,Gold
+Canada,2008,Shooting,22,1,0,5,3,6,Silver
+Canada,2008,Archery,23,0,0,2,3,2,Gold
+Canada,2008,Fencing,11,1,0,0,3,1,Bronze
+Canada,2008,Judo,3,1,2,0,3,3,Gold
+Canada,2008,Sailing,10,0,0,0,3,0,Gold
+Canada,2008,Diving,24,0,1,0,3,1,Gold
+Canada,2008,Hockey,25,0,0,2,3,2,Silver
+Brazil,2008,Athletics,4,0,0,0,3,0,Gold
+Brazil,2008,Swimming,23,2,0,1,3,3,Gold
+Brazil,2008,Gymnastics,27,1,0,0,3,1,Gold
+Brazil,2008,Cycling,12,0,0,3,3,3,Gold
+Brazil,2008,Rowing,26,0,0,0,3,0,Silver
+Brazil,2008,Boxing,5,1,2,0,3,3,None
+Brazil,2008,Wrestling,26,0,0,1,3,1,Gold
+Brazil,2008,Weightlifting,10,2,0,0,3,2,Gold
+Brazil,2008,Shooting,24,0,0,1,3,1,Bronze
+Brazil,2008,Archery,28,0,0,1,3,1,None
+Brazil,2008,Fencing,14,0,0,1,3,1,None
+Brazil,2008,Judo,10,0,1,0,3,1,None
+Brazil,2008,Sailing,19,1,1,0,3,2,Bronze
+Brazil,2008,Diving,16,2,0,3,3,5,None
+Brazil,2008,Hockey,26,1,0,0,3,1,Gold
+India,2008,Athletics,28,2,0,0,3,2,Silver
+India,2008,Swimming,20,0,0,0,3,0,Silver
+India,2008,Gymnastics,2,1,3,0,3,4,Bronze
+India,2008,Cycling,4,0,1,0,3,1,Gold
+India,2008,Rowing,12,0,0,0,3,0,Silver
+India,2008,Boxing,15,0,1,0,3,1,Gold
+India,2008,Wrestling,2,0,1,0,3,1,Gold
+India,2008,Weightlifting,10,0,0,0,3,0,Silver
+India,2008,Shooting,3,0,0,0,3,0,Gold
+India,2008,Archery,30,0,1,2,3,3,None
+India,2008,Fencing,10,0,2,1,3,3,None
+India,2008,Judo,9,0,2,0,3,2,Silver
+India,2008,Sailing,27,0,1,1,3,2,None
+India,2008,Diving,27,1,1,2,3,4,Gold
+India,2008,Hockey,18,0,0,2,3,2,None
+Spain,2008,Athletics,2,0,0,0,3,0,Silver
+Spain,2008,Swimming,3,0,0,0,3,0,Silver
+Spain,2008,Gymnastics,9,0,0,0,3,0,None
+Spain,2008,Cycling,23,0,1,0,3,1,Gold
+Spain,2008,Rowing,26,1,0,3,3,4,Silver
+Spain,2008,Boxing,29,0,0,0,3,0,Silver
+Spain,2008,Wrestling,7,2,0,2,3,4,Gold
+Spain,2008,Weightlifting,27,0,1,0,3,1,Silver
+Spain,2008,Shooting,13,1,0,0,3,1,None
+Spain,2008,Archery,20,0,0,0,3,0,Silver
+Spain,2008,Fencing,19,0,0,0,3,0,Gold
+Spain,2008,Judo,4,0,1,0,3,1,Bronze
+Spain,2008,Sailing,12,0,0,1,3,1,Gold
+Spain,2008,Diving,6,2,0,1,3,3,Silver
+Spain,2008,Hockey,3,1,1,0,3,2,Silver
+Hungary,2008,Athletics,6,0,0,0,3,0,Silver
+Hungary,2008,Swimming,13,0,2,1,3,3,Bronze
+Hungary,2008,Gymnastics,20,0,0,0,3,0,None
+Hungary,2008,Cycling,15,0,0,1,3,1,Gold
+Hungary,2008,Rowing,22,0,0,0,3,0,Silver
+Hungary,2008,Boxing,21,0,0,2,3,2,Silver
+Hungary,2008,Wrestling,20,2,0,1,3,3,None
+Hungary,2008,Weightlifting,7,0,0,1,3,1,None
+Hungary,2008,Shooting,20,0,0,0,3,0,None
+Hungary,2008,Archery,21,0,0,0,3,0,Silver
+Hungary,2008,Fencing,21,0,0,0,3,0,Bronze
+Hungary,2008,Judo,25,0,0,1,3,1,Silver
+Hungary,2008,Sailing,12,0,0,0,3,0,Silver
+Hungary,2008,Diving,22,0,0,1,3,1,Gold
+Hungary,2008,Hockey,2,0,0,2,3,2,Gold
+New Zealand,2008,Athletics,5,1,0,1,3,2,Silver
+New Zealand,2008,Swimming,16,0,0,0,3,0,None
+New Zealand,2008,Gymnastics,14,0,0,1,3,1,Bronze
+New Zealand,2008,Cycling,28,0,0,0,3,0,Bronze
+New Zealand,2008,Rowing,7,0,1,0,3,1,None
+New Zealand,2008,Boxing,3,0,3,1,3,4,Bronze
+New Zealand,2008,Wrestling,7,0,1,1,3,2,Silver
+New Zealand,2008,Weightlifting,4,1,0,0,3,1,None
+New Zealand,2008,Shooting,21,0,2,1,3,3,Bronze
+New Zealand,2008,Archery,15,0,2,0,3,2,Gold
+New Zealand,2008,Fencing,5,0,0,1,3,1,Bronze
+New Zealand,2008,Judo,15,1,2,3,3,6,Bronze
+New Zealand,2008,Sailing,11,0,0,0,3,0,None
+New Zealand,2008,Diving,14,1,0,1,3,2,Bronze
+New Zealand,2008,Hockey,15,0,1,0,3,1,Bronze
+Kenya,2008,Athletics,22,3,0,0,3,3,Gold
+Kenya,2008,Swimming,11,0,1,0,3,1,Bronze
+Kenya,2008,Gymnastics,5,0,1,1,3,2,Silver
+Kenya,2008,Cycling,4,0,0,2,3,2,Silver
+Kenya,2008,Rowing,13,0,0,1,3,1,None
+Kenya,2008,Boxing,16,0,0,0,3,0,Gold
+Kenya,2008,Wrestling,20,0,1,0,3,1,Bronze
+Kenya,2008,Weightlifting,13,0,0,0,3,0,Gold
+Kenya,2008,Shooting,26,1,1,0,3,2,None
+Kenya,2008,Archery,15,0,0,3,3,3,Bronze
+Kenya,2008,Fencing,17,0,0,0,3,0,Silver
+Kenya,2008,Judo,29,1,0,0,3,1,None
+Kenya,2008,Sailing,30,0,0,1,3,1,Gold
+Kenya,2008,Diving,26,0,1,0,3,1,Bronze
+Kenya,2008,Hockey,7,0,0,2,3,2,Bronze
+Jamaica,2008,Athletics,23,0,0,0,3,0,Gold
+Jamaica,2008,Swimming,22,1,1,1,3,3,Gold
+Jamaica,2008,Gymnastics,27,0,0,0,3,0,Gold
+Jamaica,2008,Cycling,14,0,0,0,3,0,Gold
+Jamaica,2008,Rowing,2,0,1,0,3,1,None
+Jamaica,2008,Boxing,18,0,0,0,3,0,None
+Jamaica,2008,Wrestling,20,0,1,1,3,2,Bronze
+Jamaica,2008,Weightlifting,5,0,0,1,3,1,Gold
+Jamaica,2008,Shooting,13,3,3,0,3,6,None
+Jamaica,2008,Archery,22,0,0,0,3,0,Gold
+Jamaica,2008,Fencing,6,0,0,0,3,0,Bronze
+Jamaica,2008,Judo,14,1,0,1,3,2,None
+Jamaica,2008,Sailing,25,0,0,1,3,1,Gold
+Jamaica,2008,Diving,13,0,0,1,3,1,Gold
+Jamaica,2008,Hockey,17,0,1,0,3,1,Gold
+Cuba,2008,Athletics,29,1,0,0,3,1,Gold
+Cuba,2008,Swimming,12,0,0,0,3,0,Silver
+Cuba,2008,Gymnastics,22,1,0,2,3,3,Bronze
+Cuba,2008,Cycling,17,0,2,0,3,2,Gold
+Cuba,2008,Rowing,28,0,0,0,3,0,None
+Cuba,2008,Boxing,14,0,0,0,3,0,Gold
+Cuba,2008,Wrestling,30,0,0,0,3,0,Gold
+Cuba,2008,Weightlifting,3,0,0,2,3,2,Bronze
+Cuba,2008,Shooting,13,1,0,0,3,1,Bronze
+Cuba,2008,Archery,22,0,0,0,3,0,Bronze
+Cuba,2008,Fencing,9,0,0,1,3,1,Silver
+Cuba,2008,Judo,20,2,0,0,3,2,Silver
+Cuba,2008,Sailing,28,0,0,0,3,0,Gold
+Cuba,2008,Diving,14,0,0,0,3,0,Gold
+Cuba,2008,Hockey,26,1,0,0,3,1,Silver
+United States,2012,Athletics,10,5,7,8,4,20,Gold
+United States,2012,Swimming,29,5,6,8,4,19,Gold
+United States,2012,Gymnastics,22,3,6,4,4,13,Gold
+United States,2012,Cycling,9,4,5,7,4,16,Gold
+United States,2012,Rowing,22,7,6,5,4,18,Gold
+United States,2012,Boxing,29,3,3,7,4,13,Gold
+United States,2012,Wrestling,28,2,3,8,4,13,Gold
+United States,2012,Weightlifting,2,5,5,4,4,14,Gold
+United States,2012,Shooting,22,6,4,6,4,16,Gold
+United States,2012,Archery,23,3,6,3,4,12,Gold
+United States,2012,Fencing,29,3,7,5,4,15,Gold
+United States,2012,Judo,30,3,4,5,4,12,Gold
+United States,2012,Sailing,3,2,7,3,4,12,Gold
+United States,2012,Diving,21,2,6,2,4,10,Gold
+United States,2012,Hockey,17,4,5,6,4,15,Gold
+China,2012,Athletics,15,4,5,7,4,16,Gold
+China,2012,Swimming,28,7,8,6,4,21,Gold
+China,2012,Gymnastics,9,2,6,6,4,14,Gold
+China,2012,Cycling,13,5,5,4,4,14,Gold
+China,2012,Rowing,28,2,3,7,4,12,Gold
+China,2012,Boxing,25,5,4,3,4,12,Gold
+China,2012,Wrestling,26,5,5,7,4,17,Gold
+China,2012,Weightlifting,9,5,5,6,4,16,Gold
+China,2012,Shooting,11,1,4,6,4,11,Gold
+China,2012,Archery,16,2,2,5,4,9,Gold
+China,2012,Fencing,29,4,5,4,4,13,Gold
+China,2012,Judo,8,3,5,6,4,14,Gold
+China,2012,Sailing,14,4,3,5,4,12,Gold
+China,2012,Diving,8,3,5,4,4,12,Gold
+China,2012,Hockey,30,3,5,5,4,13,Gold
+Japan,2012,Athletics,26,6,7,10,4,23,Gold
+Japan,2012,Swimming,7,2,3,6,4,11,Gold
+Japan,2012,Gymnastics,26,4,5,5,4,14,Gold
+Japan,2012,Cycling,17,3,4,6,4,13,Gold
+Japan,2012,Rowing,15,4,4,5,4,13,Gold
+Japan,2012,Boxing,14,5,3,4,4,12,Gold
+Japan,2012,Wrestling,30,2,7,4,4,13,Gold
+Japan,2012,Weightlifting,8,4,5,3,4,12,Silver
+Japan,2012,Shooting,30,4,1,5,4,10,Gold
+Japan,2012,Archery,14,3,2,3,4,8,Gold
+Japan,2012,Fencing,11,2,7,6,4,15,Gold
+Japan,2012,Judo,18,3,1,2,4,6,Gold
+Japan,2012,Sailing,30,3,5,5,4,13,Gold
+Japan,2012,Diving,7,2,4,4,4,10,Gold
+Japan,2012,Hockey,25,4,6,7,4,17,Gold
+Great Britain,2012,Athletics,2,4,5,8,4,17,Gold
+Great Britain,2012,Swimming,3,3,2,6,4,11,Gold
+Great Britain,2012,Gymnastics,26,2,4,5,4,11,Gold
+Great Britain,2012,Cycling,22,2,2,4,4,8,Gold
+Great Britain,2012,Rowing,5,2,2,4,4,8,Gold
+Great Britain,2012,Boxing,6,5,2,4,4,11,Gold
+Great Britain,2012,Wrestling,2,3,3,2,4,8,Gold
+Great Britain,2012,Weightlifting,21,2,3,4,4,9,Gold
+Great Britain,2012,Shooting,30,1,4,6,4,11,Gold
+Great Britain,2012,Archery,5,4,3,2,4,9,Gold
+Great Britain,2012,Fencing,26,4,3,4,4,11,Gold
+Great Britain,2012,Judo,11,3,5,2,4,10,Gold
+Great Britain,2012,Sailing,8,2,2,5,4,9,Gold
+Great Britain,2012,Diving,4,2,2,7,4,11,Gold
+Great Britain,2012,Hockey,23,6,4,5,4,15,Gold
+Russia,2012,Athletics,25,6,6,6,4,18,Silver
+Russia,2012,Swimming,9,4,4,3,4,11,Gold
+Russia,2012,Gymnastics,28,1,4,4,4,9,Silver
+Russia,2012,Cycling,11,1,5,4,4,10,Gold
+Russia,2012,Rowing,29,3,1,3,4,7,Gold
+Russia,2012,Boxing,29,2,3,5,4,10,Gold
+Russia,2012,Wrestling,21,2,4,1,4,7,Gold
+Russia,2012,Weightlifting,13,3,4,6,4,13,Gold
+Russia,2012,Shooting,10,1,4,5,4,10,Gold
+Russia,2012,Archery,17,1,1,5,4,7,Gold
+Russia,2012,Fencing,24,2,5,4,4,11,Gold
+Russia,2012,Judo,29,1,4,3,4,8,Gold
+Russia,2012,Sailing,23,2,4,3,4,9,Gold
+Russia,2012,Diving,26,1,2,5,4,8,Gold
+Russia,2012,Hockey,30,1,2,5,4,8,Gold
+Germany,2012,Athletics,5,2,3,3,4,8,Gold
+Germany,2012,Swimming,2,1,3,4,4,8,Gold
+Germany,2012,Gymnastics,26,3,4,6,4,13,Gold
+Germany,2012,Cycling,29,1,4,2,4,7,Gold
+Germany,2012,Rowing,24,1,1,2,4,4,Gold
+Germany,2012,Boxing,23,3,2,4,4,9,Gold
+Germany,2012,Wrestling,28,3,2,5,4,10,Gold
+Germany,2012,Weightlifting,7,4,0,2,4,6,Gold
+Germany,2012,Shooting,17,2,4,3,4,9,Gold
+Germany,2012,Archery,10,1,3,3,4,7,Gold
+Germany,2012,Fencing,22,1,3,3,4,7,Gold
+Germany,2012,Judo,20,2,3,3,4,8,Silver
+Germany,2012,Sailing,16,3,1,4,4,8,Gold
+Germany,2012,Diving,14,1,3,2,4,6,Gold
+Germany,2012,Hockey,2,2,3,2,4,7,Gold
+France,2012,Athletics,30,3,1,3,4,7,Gold
+France,2012,Swimming,23,3,5,5,4,13,Gold
+France,2012,Gymnastics,29,2,5,4,4,11,Gold
+France,2012,Cycling,21,2,3,1,4,6,Silver
+France,2012,Rowing,5,2,1,4,4,7,Silver
+France,2012,Boxing,12,0,3,1,4,4,Gold
+France,2012,Wrestling,13,2,3,3,4,8,Gold
+France,2012,Weightlifting,7,3,1,2,4,6,Silver
+France,2012,Shooting,10,1,2,3,4,6,Silver
+France,2012,Archery,29,1,4,2,4,7,Gold
+France,2012,Fencing,5,2,2,5,4,9,Gold
+France,2012,Judo,22,1,5,3,4,9,Silver
+France,2012,Sailing,23,2,2,4,4,8,Gold
+France,2012,Diving,17,3,2,1,4,6,Silver
+France,2012,Hockey,20,3,4,2,4,9,Gold
+Australia,2012,Athletics,7,1,1,1,4,3,Gold
+Australia,2012,Swimming,23,0,4,2,4,6,Gold
+Australia,2012,Gymnastics,18,0,3,2,4,5,Gold
+Australia,2012,Cycling,9,3,0,6,4,9,Gold
+Australia,2012,Rowing,11,3,1,1,4,5,Silver
+Australia,2012,Boxing,25,2,1,5,4,8,Gold
+Australia,2012,Wrestling,19,1,2,5,4,8,Gold
+Australia,2012,Weightlifting,8,1,2,4,4,7,Gold
+Australia,2012,Shooting,23,0,2,2,4,4,Gold
+Australia,2012,Archery,7,0,0,6,4,6,Silver
+Australia,2012,Fencing,12,2,2,2,4,6,Gold
+Australia,2012,Judo,23,2,4,4,4,10,Gold
+Australia,2012,Sailing,30,3,4,0,4,7,Gold
+Australia,2012,Diving,18,1,1,0,4,2,Gold
+Australia,2012,Hockey,3,3,4,3,4,10,Silver
+Italy,2012,Athletics,11,2,2,2,4,6,Gold
+Italy,2012,Swimming,3,0,2,3,4,5,Gold
+Italy,2012,Gymnastics,28,2,4,4,4,10,Gold
+Italy,2012,Cycling,23,1,3,4,4,8,Gold
+Italy,2012,Rowing,9,1,2,0,4,3,Gold
+Italy,2012,Boxing,24,2,3,3,4,8,Bronze
+Italy,2012,Wrestling,27,3,3,2,4,8,Gold
+Italy,2012,Weightlifting,19,1,3,3,4,7,Gold
+Italy,2012,Shooting,29,1,1,1,4,3,Gold
+Italy,2012,Archery,22,2,2,3,4,7,Gold
+Italy,2012,Fencing,21,0,2,3,4,5,Gold
+Italy,2012,Judo,8,1,1,1,4,3,Silver
+Italy,2012,Sailing,7,1,2,2,4,5,Gold
+Italy,2012,Diving,3,2,0,1,4,3,Silver
+Italy,2012,Hockey,10,2,0,3,4,5,Silver
+South Korea,2012,Athletics,6,0,2,4,4,6,Gold
+South Korea,2012,Swimming,22,1,1,5,4,7,Gold
+South Korea,2012,Gymnastics,17,2,1,2,4,5,None
+South Korea,2012,Cycling,18,1,1,2,4,4,Gold
+South Korea,2012,Rowing,4,1,2,1,4,4,Gold
+South Korea,2012,Boxing,13,2,0,1,4,3,Gold
+South Korea,2012,Wrestling,12,1,3,1,4,5,Gold
+South Korea,2012,Weightlifting,17,1,1,2,4,4,Silver
+South Korea,2012,Shooting,22,4,0,2,4,6,Silver
+South Korea,2012,Archery,21,0,1,1,4,2,Gold
+South Korea,2012,Fencing,3,0,1,1,4,2,Gold
+South Korea,2012,Judo,14,0,3,2,4,5,Bronze
+South Korea,2012,Sailing,2,3,0,3,4,6,Silver
+South Korea,2012,Diving,16,2,0,4,4,6,Gold
+South Korea,2012,Hockey,22,2,2,1,4,5,Gold
+Netherlands,2012,Athletics,26,2,2,0,4,4,Gold
+Netherlands,2012,Swimming,4,1,0,0,4,1,Gold
+Netherlands,2012,Gymnastics,28,2,2,1,4,5,Gold
+Netherlands,2012,Cycling,24,0,0,1,4,1,Gold
+Netherlands,2012,Rowing,4,1,2,1,4,4,Gold
+Netherlands,2012,Boxing,16,0,3,0,4,3,Gold
+Netherlands,2012,Wrestling,10,0,2,0,4,2,Gold
+Netherlands,2012,Weightlifting,9,0,0,0,4,0,Gold
+Netherlands,2012,Shooting,12,0,2,0,4,2,Gold
+Netherlands,2012,Archery,19,0,1,0,4,1,Gold
+Netherlands,2012,Fencing,3,0,0,1,4,1,Gold
+Netherlands,2012,Judo,18,1,1,1,4,3,Gold
+Netherlands,2012,Sailing,26,0,1,4,4,5,Gold
+Netherlands,2012,Diving,28,0,2,0,4,2,Gold
+Netherlands,2012,Hockey,14,0,1,0,4,1,None
+Canada,2012,Athletics,11,2,2,0,4,4,Gold
+Canada,2012,Swimming,27,0,1,2,4,3,Gold
+Canada,2012,Gymnastics,2,2,1,1,4,4,Silver
+Canada,2012,Cycling,21,2,0,1,4,3,Bronze
+Canada,2012,Rowing,4,1,1,1,4,3,Bronze
+Canada,2012,Boxing,15,1,0,1,4,2,Silver
+Canada,2012,Wrestling,6,1,3,1,4,5,Silver
+Canada,2012,Weightlifting,7,2,0,1,4,3,Gold
+Canada,2012,Shooting,3,0,2,1,4,3,None
+Canada,2012,Archery,19,2,0,1,4,3,Gold
+Canada,2012,Fencing,10,0,0,2,4,2,Silver
+Canada,2012,Judo,6,2,2,1,4,5,Gold
+Canada,2012,Sailing,11,2,1,1,4,4,None
+Canada,2012,Diving,21,3,2,2,4,7,None
+Canada,2012,Hockey,6,0,2,0,4,2,Gold
+Brazil,2012,Athletics,2,1,1,2,4,4,None
+Brazil,2012,Swimming,24,2,0,0,4,2,Gold
+Brazil,2012,Gymnastics,25,1,0,0,4,1,Bronze
+Brazil,2012,Cycling,16,1,0,2,4,3,Bronze
+Brazil,2012,Rowing,21,0,1,1,4,2,Silver
+Brazil,2012,Boxing,28,0,0,0,4,0,Silver
+Brazil,2012,Wrestling,4,1,1,0,4,2,Gold
+Brazil,2012,Weightlifting,29,1,0,1,4,2,Gold
+Brazil,2012,Shooting,20,0,0,1,4,1,None
+Brazil,2012,Archery,10,0,0,0,4,0,Bronze
+Brazil,2012,Fencing,13,0,0,0,4,0,None
+Brazil,2012,Judo,20,0,0,0,4,0,Bronze
+Brazil,2012,Sailing,14,0,0,3,4,3,None
+Brazil,2012,Diving,9,0,0,0,4,0,None
+Brazil,2012,Hockey,18,2,2,1,4,5,Gold
+India,2012,Athletics,20,0,1,0,4,1,Bronze
+India,2012,Swimming,17,0,1,1,4,2,Gold
+India,2012,Gymnastics,26,0,0,3,4,3,None
+India,2012,Cycling,8,1,0,0,4,1,None
+India,2012,Rowing,14,0,2,0,4,2,None
+India,2012,Boxing,12,2,2,3,4,7,Bronze
+India,2012,Wrestling,22,1,0,0,4,1,Gold
+India,2012,Weightlifting,7,0,1,0,4,1,Gold
+India,2012,Shooting,20,2,0,3,4,5,Gold
+India,2012,Archery,9,0,0,0,4,0,None
+India,2012,Fencing,29,0,0,0,4,0,None
+India,2012,Judo,30,0,1,0,4,1,Silver
+India,2012,Sailing,4,0,0,0,4,0,Bronze
+India,2012,Diving,21,1,0,0,4,1,None
+India,2012,Hockey,9,0,0,0,4,0,None
+Spain,2012,Athletics,17,0,1,2,4,3,Silver
+Spain,2012,Swimming,28,0,2,0,4,2,Gold
+Spain,2012,Gymnastics,6,0,0,0,4,0,Bronze
+Spain,2012,Cycling,20,1,0,0,4,1,Gold
+Spain,2012,Rowing,14,0,1,1,4,2,Bronze
+Spain,2012,Boxing,2,0,1,0,4,1,None
+Spain,2012,Wrestling,8,1,0,4,4,5,Gold
+Spain,2012,Weightlifting,29,0,1,2,4,3,Bronze
+Spain,2012,Shooting,20,0,0,0,4,0,None
+Spain,2012,Archery,23,0,1,0,4,1,None
+Spain,2012,Fencing,21,2,0,1,4,3,None
+Spain,2012,Judo,14,0,0,1,4,1,None
+Spain,2012,Sailing,23,1,0,2,4,3,None
+Spain,2012,Diving,5,0,1,0,4,1,None
+Spain,2012,Hockey,19,0,1,1,4,2,Gold
+Hungary,2012,Athletics,17,0,2,0,4,2,None
+Hungary,2012,Swimming,26,0,0,2,4,2,None
+Hungary,2012,Gymnastics,15,0,0,0,4,0,None
+Hungary,2012,Cycling,27,1,1,0,4,2,None
+Hungary,2012,Rowing,13,0,1,0,4,1,None
+Hungary,2012,Boxing,5,0,2,0,4,2,None
+Hungary,2012,Wrestling,26,0,0,0,4,0,None
+Hungary,2012,Weightlifting,15,0,0,0,4,0,Silver
+Hungary,2012,Shooting,25,0,0,0,4,0,Gold
+Hungary,2012,Archery,22,0,2,0,4,2,None
+Hungary,2012,Fencing,15,0,0,2,4,2,Bronze
+Hungary,2012,Judo,29,0,2,1,4,3,None
+Hungary,2012,Sailing,21,0,1,1,4,2,None
+Hungary,2012,Diving,27,1,2,2,4,5,Silver
+Hungary,2012,Hockey,19,1,0,0,4,1,None
+New Zealand,2012,Athletics,24,0,1,1,4,2,None
+New Zealand,2012,Swimming,29,0,0,0,4,0,Gold
+New Zealand,2012,Gymnastics,7,0,0,1,4,1,None
+New Zealand,2012,Cycling,27,0,0,1,4,1,Silver
+New Zealand,2012,Rowing,7,0,0,0,4,0,Silver
+New Zealand,2012,Boxing,27,0,0,1,4,1,Bronze
+New Zealand,2012,Wrestling,4,0,1,0,4,1,Bronze
+New Zealand,2012,Weightlifting,21,0,0,0,4,0,Bronze
+New Zealand,2012,Shooting,18,0,0,1,4,1,Gold
+New Zealand,2012,Archery,3,1,1,0,4,2,Bronze
+New Zealand,2012,Fencing,8,0,0,1,4,1,Gold
+New Zealand,2012,Judo,18,0,0,3,4,3,Silver
+New Zealand,2012,Sailing,9,0,0,0,4,0,None
+New Zealand,2012,Diving,13,0,0,1,4,1,None
+New Zealand,2012,Hockey,26,0,0,1,4,1,Bronze
+Kenya,2012,Athletics,14,1,2,1,4,4,Gold
+Kenya,2012,Swimming,4,0,0,1,4,1,None
+Kenya,2012,Gymnastics,19,0,1,0,4,1,None
+Kenya,2012,Cycling,21,0,1,0,4,1,Gold
+Kenya,2012,Rowing,14,0,0,0,4,0,Silver
+Kenya,2012,Boxing,4,1,0,0,4,1,None
+Kenya,2012,Wrestling,5,0,0,3,4,3,None
+Kenya,2012,Weightlifting,20,2,1,0,4,3,Gold
+Kenya,2012,Shooting,14,0,0,0,4,0,Bronze
+Kenya,2012,Archery,16,0,0,1,4,1,None
+Kenya,2012,Fencing,29,0,2,0,4,2,None
+Kenya,2012,Judo,9,0,0,0,4,0,Bronze
+Kenya,2012,Sailing,12,1,0,0,4,1,None
+Kenya,2012,Diving,10,0,0,1,4,1,None
+Kenya,2012,Hockey,23,0,0,1,4,1,Bronze
+Jamaica,2012,Athletics,12,2,0,1,4,3,None
+Jamaica,2012,Swimming,10,1,0,2,4,3,Bronze
+Jamaica,2012,Gymnastics,25,1,1,0,4,2,Gold
+Jamaica,2012,Cycling,29,2,1,0,4,3,Silver
+Jamaica,2012,Rowing,13,0,0,0,4,0,Silver
+Jamaica,2012,Boxing,4,0,0,0,4,0,None
+Jamaica,2012,Wrestling,19,0,0,1,4,1,None
+Jamaica,2012,Weightlifting,13,1,0,0,4,1,Silver
+Jamaica,2012,Shooting,29,0,0,0,4,0,Bronze
+Jamaica,2012,Archery,26,1,1,0,4,2,Bronze
+Jamaica,2012,Fencing,3,0,0,1,4,1,Gold
+Jamaica,2012,Judo,19,0,0,0,4,0,Gold
+Jamaica,2012,Sailing,16,2,1,0,4,3,Gold
+Jamaica,2012,Diving,16,1,0,0,4,1,Silver
+Jamaica,2012,Hockey,5,2,0,0,4,2,None
+Cuba,2012,Athletics,10,1,1,0,4,2,Bronze
+Cuba,2012,Swimming,12,0,1,0,4,1,Silver
+Cuba,2012,Gymnastics,8,0,0,1,4,1,Gold
+Cuba,2012,Cycling,16,1,1,1,4,3,Silver
+Cuba,2012,Rowing,20,0,0,0,4,0,Gold
+Cuba,2012,Boxing,19,2,1,2,4,5,None
+Cuba,2012,Wrestling,6,1,2,2,4,5,None
+Cuba,2012,Weightlifting,15,0,0,1,4,1,None
+Cuba,2012,Shooting,29,0,0,1,4,1,None
+Cuba,2012,Archery,10,0,0,1,4,1,None
+Cuba,2012,Fencing,14,0,2,0,4,2,Gold
+Cuba,2012,Judo,28,0,1,1,4,2,None
+Cuba,2012,Sailing,12,2,0,0,4,2,Gold
+Cuba,2012,Diving,13,1,0,0,4,1,Silver
+Cuba,2012,Hockey,29,0,2,1,4,3,Silver
+United States,2016,Athletics,19,7,6,6,5,19,Gold
+United States,2016,Swimming,13,3,5,6,5,14,Gold
+United States,2016,Gymnastics,4,4,3,9,5,16,Gold
+United States,2016,Cycling,22,4,5,8,5,17,Gold
+United States,2016,Rowing,15,3,7,4,5,14,Gold
+United States,2016,Boxing,29,6,4,8,5,18,Gold
+United States,2016,Wrestling,22,3,5,3,5,11,Gold
+United States,2016,Weightlifting,22,4,3,4,5,11,Gold
+United States,2016,Shooting,25,2,4,6,5,12,Gold
+United States,2016,Archery,15,2,4,5,5,11,Gold
+United States,2016,Fencing,10,4,5,7,5,16,Gold
+United States,2016,Judo,4,3,4,7,5,14,Gold
+United States,2016,Sailing,17,3,4,4,5,11,Gold
+United States,2016,Diving,14,3,5,3,5,11,Gold
+United States,2016,Hockey,4,3,5,6,5,14,Silver
+China,2016,Athletics,11,5,7,7,5,19,Gold
+China,2016,Swimming,18,3,7,3,5,13,Gold
+China,2016,Gymnastics,23,2,5,8,5,15,Gold
+China,2016,Cycling,29,2,2,2,5,6,Gold
+China,2016,Rowing,16,4,2,5,5,11,Gold
+China,2016,Boxing,16,2,3,5,5,10,Gold
+China,2016,Wrestling,20,4,4,8,5,16,Gold
+China,2016,Weightlifting,17,6,2,7,5,15,Gold
+China,2016,Shooting,16,2,3,7,5,12,Gold
+China,2016,Archery,18,1,5,4,5,10,Gold
+China,2016,Fencing,13,4,5,4,5,13,Gold
+China,2016,Judo,26,2,3,4,5,9,Gold
+China,2016,Sailing,15,2,1,5,5,8,Gold
+China,2016,Diving,8,2,4,6,5,12,Gold
+China,2016,Hockey,14,3,2,8,5,13,Gold
+Japan,2016,Athletics,9,5,5,6,5,16,Gold
+Japan,2016,Swimming,9,6,6,7,5,19,Gold
+Japan,2016,Gymnastics,10,3,5,4,5,12,Gold
+Japan,2016,Cycling,27,3,5,7,5,15,Gold
+Japan,2016,Rowing,5,3,1,6,5,10,Gold
+Japan,2016,Boxing,10,4,1,7,5,12,Gold
+Japan,2016,Wrestling,19,4,4,4,5,12,Gold
+Japan,2016,Weightlifting,11,0,3,7,5,10,Gold
+Japan,2016,Shooting,6,3,4,4,5,11,Gold
+Japan,2016,Archery,15,2,3,5,5,10,Gold
+Japan,2016,Fencing,27,2,4,5,5,11,Gold
+Japan,2016,Judo,26,3,2,5,5,10,Gold
+Japan,2016,Sailing,17,2,6,6,5,14,Gold
+Japan,2016,Diving,10,3,2,5,5,10,Gold
+Japan,2016,Hockey,9,5,3,4,5,12,Gold
+Great Britain,2016,Athletics,9,4,6,6,5,16,Gold
+Great Britain,2016,Swimming,18,3,4,4,5,11,Gold
+Great Britain,2016,Gymnastics,14,4,2,6,5,12,Gold
+Great Britain,2016,Cycling,3,2,3,6,5,11,Gold
+Great Britain,2016,Rowing,5,3,4,4,5,11,Gold
+Great Britain,2016,Boxing,29,2,4,3,5,9,Gold
+Great Britain,2016,Wrestling,9,2,4,6,5,12,Gold
+Great Britain,2016,Weightlifting,5,2,5,4,5,11,Gold
+Great Britain,2016,Shooting,3,2,3,3,5,8,Gold
+Great Britain,2016,Archery,26,4,5,5,5,14,Gold
+Great Britain,2016,Fencing,4,3,2,4,5,9,Gold
+Great Britain,2016,Judo,3,2,5,5,5,12,Gold
+Great Britain,2016,Sailing,24,4,4,6,5,14,Gold
+Great Britain,2016,Diving,19,2,2,4,5,8,Gold
+Great Britain,2016,Hockey,27,3,5,3,5,11,Gold
+Russia,2016,Athletics,25,0,5,5,5,10,Gold
+Russia,2016,Swimming,17,3,5,6,5,14,Gold
+Russia,2016,Gymnastics,20,0,4,4,5,8,Gold
+Russia,2016,Cycling,25,3,3,4,5,10,Gold
+Russia,2016,Rowing,7,1,5,3,5,9,Silver
+Russia,2016,Boxing,11,3,3,3,5,9,Gold
+Russia,2016,Wrestling,18,3,4,2,5,9,Gold
+Russia,2016,Weightlifting,2,5,3,6,5,14,Gold
+Russia,2016,Shooting,4,3,2,1,5,6,Gold
+Russia,2016,Archery,14,4,4,2,5,10,Gold
+Russia,2016,Fencing,11,3,1,4,5,8,Gold
+Russia,2016,Judo,5,2,2,0,5,4,Gold
+Russia,2016,Sailing,7,3,4,2,5,9,Gold
+Russia,2016,Diving,17,1,1,4,5,6,Gold
+Russia,2016,Hockey,17,2,3,3,5,8,Gold
+Germany,2016,Athletics,10,1,6,7,5,14,Gold
+Germany,2016,Swimming,8,4,3,6,5,13,Gold
+Germany,2016,Gymnastics,28,3,2,2,5,7,Gold
+Germany,2016,Cycling,30,2,1,4,5,7,Gold
+Germany,2016,Rowing,24,5,2,5,5,12,Gold
+Germany,2016,Boxing,28,1,2,3,5,6,Gold
+Germany,2016,Wrestling,18,1,2,2,5,5,Gold
+Germany,2016,Weightlifting,18,3,0,3,5,6,Gold
+Germany,2016,Shooting,7,2,1,3,5,6,Gold
+Germany,2016,Archery,20,2,2,2,5,6,Gold
+Germany,2016,Fencing,23,2,4,4,5,10,Silver
+Germany,2016,Judo,18,0,4,5,5,9,Gold
+Germany,2016,Sailing,21,3,0,4,5,7,Gold
+Germany,2016,Diving,12,1,6,3,5,10,Gold
+Germany,2016,Hockey,22,2,1,4,5,7,Gold
+France,2016,Athletics,8,4,1,6,5,11,Gold
+France,2016,Swimming,25,2,2,4,5,8,Gold
+France,2016,Gymnastics,25,1,3,4,5,8,Gold
+France,2016,Cycling,2,0,1,3,5,4,Gold
+France,2016,Rowing,9,0,1,2,5,3,Silver
+France,2016,Boxing,26,3,2,2,5,7,Gold
+France,2016,Wrestling,19,1,4,3,5,8,Gold
+France,2016,Weightlifting,5,0,2,2,5,4,Gold
+France,2016,Shooting,20,0,2,3,5,5,Gold
+France,2016,Archery,11,1,2,2,5,5,Gold
+France,2016,Fencing,25,1,3,3,5,7,Gold
+France,2016,Judo,17,0,2,2,5,4,Gold
+France,2016,Sailing,21,3,1,3,5,7,Gold
+France,2016,Diving,27,0,1,2,5,3,Gold
+France,2016,Hockey,13,4,2,1,5,7,Gold
+Australia,2016,Athletics,29,2,1,4,5,7,Gold
+Australia,2016,Swimming,2,2,2,4,5,8,Gold
+Australia,2016,Gymnastics,3,1,0,1,5,2,Silver
+Australia,2016,Cycling,18,2,1,1,5,4,Gold
+Australia,2016,Rowing,23,0,1,6,5,7,Gold
+Australia,2016,Boxing,18,1,2,1,5,4,Gold
+Australia,2016,Wrestling,27,2,0,2,5,4,Gold
+Australia,2016,Weightlifting,3,3,0,4,5,7,Gold
+Australia,2016,Shooting,14,1,2,5,5,8,Gold
+Australia,2016,Archery,19,0,4,4,5,8,Silver
+Australia,2016,Fencing,20,1,0,2,5,3,Gold
+Australia,2016,Judo,4,1,0,1,5,2,Gold
+Australia,2016,Sailing,23,1,1,0,5,2,Gold
+Australia,2016,Diving,13,2,1,4,5,7,Gold
+Australia,2016,Hockey,22,0,3,3,5,6,Silver
+Italy,2016,Athletics,27,1,2,3,5,6,Gold
+Italy,2016,Swimming,3,1,2,2,5,5,Gold
+Italy,2016,Gymnastics,25,1,1,2,5,4,Gold
+Italy,2016,Cycling,3,1,0,3,5,4,Gold
+Italy,2016,Rowing,11,1,0,2,5,3,Gold
+Italy,2016,Boxing,5,0,0,2,5,2,Gold
+Italy,2016,Wrestling,8,1,3,3,5,7,Gold
+Italy,2016,Weightlifting,10,1,3,2,5,6,Gold
+Italy,2016,Shooting,23,3,2,3,5,8,Silver
+Italy,2016,Archery,23,3,3,0,5,6,Gold
+Italy,2016,Fencing,24,1,0,2,5,3,Silver
+Italy,2016,Judo,22,0,2,4,5,6,Gold
+Italy,2016,Sailing,23,1,2,2,5,5,Gold
+Italy,2016,Diving,11,0,2,1,5,3,Silver
+Italy,2016,Hockey,24,0,2,3,5,5,Gold
+South Korea,2016,Athletics,29,3,3,2,5,8,Gold
+South Korea,2016,Swimming,19,4,3,0,5,7,Gold
+South Korea,2016,Gymnastics,9,0,0,0,5,0,Gold
+South Korea,2016,Cycling,2,1,0,4,5,5,Gold
+South Korea,2016,Rowing,22,2,1,2,5,5,Gold
+South Korea,2016,Boxing,3,1,1,0,5,2,Silver
+South Korea,2016,Wrestling,30,1,1,3,5,5,Gold
+South Korea,2016,Weightlifting,9,0,2,3,5,5,Gold
+South Korea,2016,Shooting,23,0,4,2,5,6,Silver
+South Korea,2016,Archery,29,3,1,0,5,4,Gold
+South Korea,2016,Fencing,9,2,2,1,5,5,Gold
+South Korea,2016,Judo,16,0,0,5,5,5,Silver
+South Korea,2016,Sailing,6,0,1,4,5,5,Gold
+South Korea,2016,Diving,24,3,0,0,5,3,Bronze
+South Korea,2016,Hockey,6,2,0,2,5,4,Gold
+Netherlands,2016,Athletics,20,2,3,3,5,8,Silver
+Netherlands,2016,Swimming,19,1,1,2,5,4,Silver
+Netherlands,2016,Gymnastics,6,1,3,2,5,6,Silver
+Netherlands,2016,Cycling,30,2,2,2,5,6,Gold
+Netherlands,2016,Rowing,28,2,0,0,5,2,Gold
+Netherlands,2016,Boxing,10,1,1,0,5,2,Gold
+Netherlands,2016,Wrestling,21,1,1,2,5,4,Gold
+Netherlands,2016,Weightlifting,21,1,0,1,5,2,Gold
+Netherlands,2016,Shooting,24,2,0,0,5,2,Gold
+Netherlands,2016,Archery,29,1,3,1,5,5,Silver
+Netherlands,2016,Fencing,17,3,1,3,5,7,None
+Netherlands,2016,Judo,9,1,1,1,5,3,Gold
+Netherlands,2016,Sailing,15,2,2,1,5,5,Gold
+Netherlands,2016,Diving,8,1,2,1,5,4,Gold
+Netherlands,2016,Hockey,29,0,0,0,5,0,Gold
+Canada,2016,Athletics,29,1,2,0,5,3,None
+Canada,2016,Swimming,25,1,1,0,5,2,Silver
+Canada,2016,Gymnastics,14,0,2,0,5,2,Gold
+Canada,2016,Cycling,30,0,0,1,5,1,None
+Canada,2016,Rowing,5,0,0,2,5,2,None
+Canada,2016,Boxing,18,0,3,2,5,5,Silver
+Canada,2016,Wrestling,3,0,3,0,5,3,Gold
+Canada,2016,Weightlifting,11,1,1,1,5,3,None
+Canada,2016,Shooting,26,0,0,0,5,0,Bronze
+Canada,2016,Archery,3,2,0,2,5,4,Gold
+Canada,2016,Fencing,16,0,2,2,5,4,Gold
+Canada,2016,Judo,26,2,2,0,5,4,Gold
+Canada,2016,Sailing,19,0,0,0,5,0,None
+Canada,2016,Diving,20,0,0,0,5,0,Gold
+Canada,2016,Hockey,30,2,0,0,5,2,Gold
+Brazil,2016,Athletics,27,0,0,0,5,0,Silver
+Brazil,2016,Swimming,4,1,0,3,5,4,Silver
+Brazil,2016,Gymnastics,14,0,0,1,5,1,Gold
+Brazil,2016,Cycling,21,0,0,2,5,2,Gold
+Brazil,2016,Rowing,12,0,1,0,5,1,Gold
+Brazil,2016,Boxing,6,0,1,1,5,2,Gold
+Brazil,2016,Wrestling,11,1,1,0,5,2,Silver
+Brazil,2016,Weightlifting,16,3,0,0,5,3,Bronze
+Brazil,2016,Shooting,2,0,0,0,5,0,Silver
+Brazil,2016,Archery,16,0,0,1,5,1,None
+Brazil,2016,Fencing,17,0,0,0,5,0,Bronze
+Brazil,2016,Judo,17,0,0,2,5,2,Bronze
+Brazil,2016,Sailing,30,0,0,0,5,0,Silver
+Brazil,2016,Diving,19,0,0,0,5,0,None
+Brazil,2016,Hockey,13,1,0,0,5,1,Bronze
+India,2016,Athletics,23,0,0,1,5,1,Silver
+India,2016,Swimming,5,2,0,2,5,4,None
+India,2016,Gymnastics,23,0,0,0,5,0,None
+India,2016,Cycling,19,0,0,0,5,0,Silver
+India,2016,Rowing,20,0,0,0,5,0,Bronze
+India,2016,Boxing,30,0,0,4,5,4,None
+India,2016,Wrestling,15,1,3,2,5,6,None
+India,2016,Weightlifting,29,1,0,0,5,1,None
+India,2016,Shooting,18,1,0,1,5,2,Bronze
+India,2016,Archery,22,0,0,0,5,0,Silver
+India,2016,Fencing,25,0,0,0,5,0,None
+India,2016,Judo,21,0,2,0,5,2,Bronze
+India,2016,Sailing,20,0,0,1,5,1,None
+India,2016,Diving,18,0,0,0,5,0,Gold
+India,2016,Hockey,27,0,0,0,5,0,Gold
+Spain,2016,Athletics,2,0,1,2,5,3,Gold
+Spain,2016,Swimming,27,1,0,1,5,2,Silver
+Spain,2016,Gymnastics,15,0,0,1,5,1,Gold
+Spain,2016,Cycling,27,1,0,0,5,1,Silver
+Spain,2016,Rowing,27,0,0,1,5,1,None
+Spain,2016,Boxing,19,0,0,0,5,0,Gold
+Spain,2016,Wrestling,25,1,0,1,5,2,None
+Spain,2016,Weightlifting,28,0,0,1,5,1,None
+Spain,2016,Shooting,17,0,0,0,5,0,Silver
+Spain,2016,Archery,17,0,0,0,5,0,Gold
+Spain,2016,Fencing,16,0,0,0,5,0,Gold
+Spain,2016,Judo,25,0,0,0,5,0,None
+Spain,2016,Sailing,19,0,0,0,5,0,Gold
+Spain,2016,Diving,23,0,0,0,5,0,None
+Spain,2016,Hockey,6,1,2,0,5,3,Silver
+Hungary,2016,Athletics,14,0,0,0,5,0,None
+Hungary,2016,Swimming,21,0,0,0,5,0,None
+Hungary,2016,Gymnastics,11,0,0,0,5,0,Silver
+Hungary,2016,Cycling,17,0,0,0,5,0,Bronze
+Hungary,2016,Rowing,28,0,0,0,5,0,Silver
+Hungary,2016,Boxing,27,0,0,0,5,0,Gold
+Hungary,2016,Wrestling,4,0,0,0,5,0,Silver
+Hungary,2016,Weightlifting,8,0,2,0,5,2,None
+Hungary,2016,Shooting,29,2,0,0,5,2,Bronze
+Hungary,2016,Archery,28,0,0,0,5,0,Bronze
+Hungary,2016,Fencing,6,0,0,2,5,2,Gold
+Hungary,2016,Judo,5,0,0,0,5,0,None
+Hungary,2016,Sailing,23,0,0,0,5,0,Gold
+Hungary,2016,Diving,5,0,2,0,5,2,Gold
+Hungary,2016,Hockey,11,0,0,0,5,0,Gold
+New Zealand,2016,Athletics,8,0,0,0,5,0,Gold
+New Zealand,2016,Swimming,12,1,0,1,5,2,Bronze
+New Zealand,2016,Gymnastics,5,0,0,0,5,0,None
+New Zealand,2016,Cycling,18,0,1,1,5,2,Silver
+New Zealand,2016,Rowing,24,0,1,0,5,1,Gold
+New Zealand,2016,Boxing,7,0,0,1,5,1,None
+New Zealand,2016,Wrestling,6,0,0,1,5,1,Gold
+New Zealand,2016,Weightlifting,3,0,0,1,5,1,Gold
+New Zealand,2016,Shooting,21,1,0,2,5,3,None
+New Zealand,2016,Archery,24,0,0,3,5,3,Silver
+New Zealand,2016,Fencing,24,2,0,0,5,2,None
+New Zealand,2016,Judo,4,0,2,0,5,2,Gold
+New Zealand,2016,Sailing,28,0,0,0,5,0,Gold
+New Zealand,2016,Diving,5,0,0,0,5,0,Silver
+New Zealand,2016,Hockey,9,0,0,3,5,3,None
+Kenya,2016,Athletics,30,3,0,1,5,4,Silver
+Kenya,2016,Swimming,23,0,0,0,5,0,None
+Kenya,2016,Gymnastics,12,0,0,0,5,0,Gold
+Kenya,2016,Cycling,16,1,0,1,5,2,None
+Kenya,2016,Rowing,13,0,1,0,5,1,None
+Kenya,2016,Boxing,27,0,0,0,5,0,Bronze
+Kenya,2016,Wrestling,4,0,0,0,5,0,Gold
+Kenya,2016,Weightlifting,21,1,0,2,5,3,None
+Kenya,2016,Shooting,17,0,0,1,5,1,Gold
+Kenya,2016,Archery,27,0,0,0,5,0,Silver
+Kenya,2016,Fencing,12,0,0,0,5,0,Silver
+Kenya,2016,Judo,24,0,0,2,5,2,None
+Kenya,2016,Sailing,20,0,0,0,5,0,None
+Kenya,2016,Diving,11,0,0,0,5,0,Bronze
+Kenya,2016,Hockey,5,0,0,1,5,1,Gold
+Jamaica,2016,Athletics,22,0,0,0,5,0,Bronze
+Jamaica,2016,Swimming,28,0,0,2,5,2,None
+Jamaica,2016,Gymnastics,26,1,2,1,5,4,Gold
+Jamaica,2016,Cycling,19,0,1,2,5,3,Bronze
+Jamaica,2016,Rowing,30,0,1,1,5,2,Silver
+Jamaica,2016,Boxing,23,0,0,0,5,0,Bronze
+Jamaica,2016,Wrestling,13,0,0,0,5,0,Silver
+Jamaica,2016,Weightlifting,21,0,2,0,5,2,Gold
+Jamaica,2016,Shooting,13,0,0,3,5,3,Gold
+Jamaica,2016,Archery,2,0,0,1,5,1,Silver
+Jamaica,2016,Fencing,29,1,0,0,5,1,None
+Jamaica,2016,Judo,20,1,0,0,5,1,Gold
+Jamaica,2016,Sailing,19,1,0,1,5,2,Silver
+Jamaica,2016,Diving,6,0,2,0,5,2,Gold
+Jamaica,2016,Hockey,6,0,0,0,5,0,Silver
+Cuba,2016,Athletics,6,0,0,2,5,2,Bronze
+Cuba,2016,Swimming,17,0,1,0,5,1,Bronze
+Cuba,2016,Gymnastics,6,3,0,1,5,4,None
+Cuba,2016,Cycling,27,0,1,0,5,1,Gold
+Cuba,2016,Rowing,21,1,0,1,5,2,None
+Cuba,2016,Boxing,13,0,0,0,5,0,Silver
+Cuba,2016,Wrestling,2,0,0,0,5,0,Bronze
+Cuba,2016,Weightlifting,15,0,0,0,5,0,None
+Cuba,2016,Shooting,3,0,0,0,5,0,Gold
+Cuba,2016,Archery,17,0,0,0,5,0,Gold
+Cuba,2016,Fencing,25,1,0,0,5,1,None
+Cuba,2016,Judo,16,0,0,0,5,0,Bronze
+Cuba,2016,Sailing,21,1,0,0,5,1,None
+Cuba,2016,Diving,4,0,1,0,5,1,Gold
+Cuba,2016,Hockey,20,0,1,0,5,1,None
+United States,2020,Athletics,17,4,5,6,6,15,Gold
+United States,2020,Swimming,20,4,7,9,6,20,Gold
+United States,2020,Gymnastics,11,3,6,6,6,15,Gold
+United States,2020,Cycling,21,2,4,6,6,12,Gold
+United States,2020,Rowing,17,6,4,3,6,13,Gold
+United States,2020,Boxing,23,1,3,4,6,8,Gold
+United States,2020,Wrestling,4,4,4,5,6,13,Gold
+United States,2020,Weightlifting,27,4,4,6,6,14,Gold
+United States,2020,Shooting,2,1,6,6,6,13,Gold
+United States,2020,Archery,20,1,2,3,6,6,Gold
+United States,2020,Fencing,27,5,7,6,6,18,Gold
+United States,2020,Judo,27,4,6,5,6,15,Gold
+United States,2020,Sailing,21,4,6,8,6,18,Gold
+United States,2020,Diving,17,5,4,5,6,14,Gold
+United States,2020,Hockey,25,0,4,7,6,11,Gold
+China,2020,Athletics,25,6,4,5,6,15,Gold
+China,2020,Swimming,3,4,8,6,6,18,Gold
+China,2020,Gymnastics,11,4,5,5,6,14,Gold
+China,2020,Cycling,23,1,6,6,6,13,Silver
+China,2020,Rowing,6,2,3,5,6,10,Gold
+China,2020,Boxing,14,5,6,3,6,14,Gold
+China,2020,Wrestling,23,3,3,4,6,10,Gold
+China,2020,Weightlifting,29,2,5,2,6,9,Gold
+China,2020,Shooting,29,3,2,4,6,9,Gold
+China,2020,Archery,20,3,5,5,6,13,Gold
+China,2020,Fencing,25,3,5,2,6,10,Gold
+China,2020,Judo,23,3,6,4,6,13,Gold
+China,2020,Sailing,19,2,4,5,6,11,Gold
+China,2020,Diving,18,4,2,5,6,11,Gold
+China,2020,Hockey,9,2,3,6,6,11,Gold
+Japan,2020,Athletics,3,4,7,5,6,16,Gold
+Japan,2020,Swimming,28,2,5,8,6,15,Gold
+Japan,2020,Gymnastics,4,1,4,3,6,8,Gold
+Japan,2020,Cycling,23,2,3,7,6,12,Gold
+Japan,2020,Rowing,5,3,5,5,6,13,Gold
+Japan,2020,Boxing,16,3,3,3,6,9,Gold
+Japan,2020,Wrestling,26,2,2,4,6,8,Gold
+Japan,2020,Weightlifting,26,3,7,5,6,15,Gold
+Japan,2020,Shooting,3,3,6,4,6,13,Gold
+Japan,2020,Archery,3,2,5,5,6,12,Gold
+Japan,2020,Fencing,8,2,6,6,6,14,Gold
+Japan,2020,Judo,17,3,4,5,6,12,Gold
+Japan,2020,Sailing,5,3,4,5,6,12,Gold
+Japan,2020,Diving,5,2,5,7,6,14,Gold
+Japan,2020,Hockey,2,4,1,6,6,11,Gold
+Great Britain,2020,Athletics,22,5,2,8,6,15,Gold
+Great Britain,2020,Swimming,12,3,4,3,6,10,Gold
+Great Britain,2020,Gymnastics,18,3,3,4,6,10,Gold
+Great Britain,2020,Cycling,25,2,2,3,6,7,Gold
+Great Britain,2020,Rowing,19,4,3,2,6,9,Gold
+Great Britain,2020,Boxing,5,3,5,5,6,13,Gold
+Great Britain,2020,Wrestling,13,5,2,1,6,8,Gold
+Great Britain,2020,Weightlifting,22,2,2,5,6,9,Gold
+Great Britain,2020,Shooting,12,3,3,5,6,11,Gold
+Great Britain,2020,Archery,7,1,2,4,6,7,Gold
+Great Britain,2020,Fencing,23,2,4,5,6,11,Gold
+Great Britain,2020,Judo,13,2,2,6,6,10,Gold
+Great Britain,2020,Sailing,16,2,5,5,6,12,Gold
+Great Britain,2020,Diving,20,2,3,3,6,8,Gold
+Great Britain,2020,Hockey,27,3,4,2,6,9,Gold
+Russia,2020,Athletics,16,5,3,7,6,15,Gold
+Russia,2020,Swimming,12,3,6,7,6,16,Gold
+Russia,2020,Gymnastics,27,2,2,3,6,7,Gold
+Russia,2020,Cycling,23,2,3,5,6,10,Gold
+Russia,2020,Rowing,4,0,4,1,6,5,Gold
+Russia,2020,Boxing,22,1,4,4,6,9,Gold
+Russia,2020,Wrestling,22,3,2,1,6,6,Gold
+Russia,2020,Weightlifting,3,3,2,4,6,9,Gold
+Russia,2020,Shooting,28,1,2,3,6,6,Gold
+Russia,2020,Archery,5,2,2,2,6,6,Gold
+Russia,2020,Fencing,8,3,5,4,6,12,Gold
+Russia,2020,Judo,25,2,2,5,6,9,Gold
+Russia,2020,Sailing,6,4,4,7,6,15,Gold
+Russia,2020,Diving,8,3,4,3,6,10,Gold
+Russia,2020,Hockey,6,2,3,3,6,8,Gold
+Germany,2020,Athletics,13,2,2,4,6,8,Gold
+Germany,2020,Swimming,5,4,4,4,6,12,Gold
+Germany,2020,Gymnastics,14,2,1,1,6,4,Gold
+Germany,2020,Cycling,7,4,4,5,6,13,Gold
+Germany,2020,Rowing,20,3,2,4,6,9,Gold
+Germany,2020,Boxing,24,4,3,1,6,8,Gold
+Germany,2020,Wrestling,10,2,2,6,6,10,Silver
+Germany,2020,Weightlifting,3,4,4,2,6,10,Gold
+Germany,2020,Shooting,21,2,2,2,6,6,Gold
+Germany,2020,Archery,2,1,2,3,6,6,Gold
+Germany,2020,Fencing,18,0,2,4,6,6,Gold
+Germany,2020,Judo,18,2,3,4,6,9,Gold
+Germany,2020,Sailing,23,1,2,4,6,7,Silver
+Germany,2020,Diving,29,1,3,2,6,6,Gold
+Germany,2020,Hockey,7,5,3,2,6,10,Gold
+France,2020,Athletics,8,1,4,3,6,8,Gold
+France,2020,Swimming,27,1,2,5,6,8,Gold
+France,2020,Gymnastics,19,2,6,2,6,10,Gold
+France,2020,Cycling,17,2,3,3,6,8,Gold
+France,2020,Rowing,20,0,2,2,6,4,Gold
+France,2020,Boxing,23,3,3,4,6,10,Gold
+France,2020,Wrestling,9,3,1,3,6,7,Gold
+France,2020,Weightlifting,14,3,1,2,6,6,Gold
+France,2020,Shooting,15,3,3,4,6,10,Gold
+France,2020,Archery,16,3,2,4,6,9,Gold
+France,2020,Fencing,13,3,3,5,6,11,Gold
+France,2020,Judo,6,1,2,4,6,7,Gold
+France,2020,Sailing,16,3,1,0,6,4,Gold
+France,2020,Diving,12,1,2,3,6,6,Gold
+France,2020,Hockey,21,1,2,5,6,8,Gold
+Australia,2020,Athletics,19,3,4,3,6,10,Gold
+Australia,2020,Swimming,8,4,4,3,6,11,Gold
+Australia,2020,Gymnastics,10,0,1,1,6,2,Gold
+Australia,2020,Cycling,15,1,2,2,6,5,Gold
+Australia,2020,Rowing,20,1,2,2,6,5,Gold
+Australia,2020,Boxing,3,1,1,1,6,3,Gold
+Australia,2020,Wrestling,26,2,3,3,6,8,Gold
+Australia,2020,Weightlifting,24,1,2,4,6,7,Silver
+Australia,2020,Shooting,9,2,1,2,6,5,Gold
+Australia,2020,Archery,8,0,2,3,6,5,Gold
+Australia,2020,Fencing,22,2,2,4,6,8,Silver
+Australia,2020,Judo,16,2,4,2,6,8,Gold
+Australia,2020,Sailing,2,1,2,4,6,7,Gold
+Australia,2020,Diving,7,2,2,2,6,6,Gold
+Australia,2020,Hockey,16,0,2,4,6,6,Gold
+Italy,2020,Athletics,24,3,3,5,6,11,Gold
+Italy,2020,Swimming,15,2,2,3,6,7,Gold
+Italy,2020,Gymnastics,8,2,1,2,6,5,Gold
+Italy,2020,Cycling,30,1,2,1,6,4,Silver
+Italy,2020,Rowing,13,1,3,4,6,8,Silver
+Italy,2020,Boxing,13,3,4,2,6,9,Gold
+Italy,2020,Wrestling,24,1,3,1,6,5,Gold
+Italy,2020,Weightlifting,8,3,2,4,6,9,Gold
+Italy,2020,Shooting,25,0,1,4,6,5,Gold
+Italy,2020,Archery,24,1,3,2,6,6,Gold
+Italy,2020,Fencing,10,0,1,3,6,4,Gold
+Italy,2020,Judo,3,1,1,2,6,4,Gold
+Italy,2020,Sailing,5,2,1,1,6,4,Gold
+Italy,2020,Diving,28,0,1,3,6,4,Gold
+Italy,2020,Hockey,24,2,0,2,6,4,Silver
+South Korea,2020,Athletics,4,3,3,3,6,9,Silver
+South Korea,2020,Swimming,7,1,1,3,6,5,Gold
+South Korea,2020,Gymnastics,5,4,2,2,6,8,Gold
+South Korea,2020,Cycling,8,2,1,0,6,3,Gold
+South Korea,2020,Rowing,11,1,1,3,6,5,Gold
+South Korea,2020,Boxing,15,0,5,3,6,8,Silver
+South Korea,2020,Wrestling,11,1,0,0,6,1,Bronze
+South Korea,2020,Weightlifting,18,5,1,5,6,11,Gold
+South Korea,2020,Shooting,12,0,3,4,6,7,None
+South Korea,2020,Archery,18,2,3,0,6,5,None
+South Korea,2020,Fencing,11,1,1,1,6,3,Gold
+South Korea,2020,Judo,9,0,1,1,6,2,Bronze
+South Korea,2020,Sailing,26,2,0,1,6,3,Gold
+South Korea,2020,Diving,21,0,0,2,6,2,Gold
+South Korea,2020,Hockey,11,2,1,0,6,3,Gold
+Netherlands,2020,Athletics,27,0,3,2,6,5,Gold
+Netherlands,2020,Swimming,3,0,2,1,6,3,Silver
+Netherlands,2020,Gymnastics,8,0,1,2,6,3,Gold
+Netherlands,2020,Cycling,12,3,1,0,6,4,Gold
+Netherlands,2020,Rowing,19,4,0,0,6,4,Gold
+Netherlands,2020,Boxing,14,2,3,0,6,5,Gold
+Netherlands,2020,Wrestling,6,1,2,1,6,4,Gold
+Netherlands,2020,Weightlifting,18,1,0,0,6,1,Silver
+Netherlands,2020,Shooting,26,1,2,1,6,4,Silver
+Netherlands,2020,Archery,6,0,1,0,6,1,Gold
+Netherlands,2020,Fencing,5,0,0,0,6,0,Gold
+Netherlands,2020,Judo,6,2,0,1,6,3,Silver
+Netherlands,2020,Sailing,9,3,1,2,6,6,Bronze
+Netherlands,2020,Diving,3,1,1,3,6,5,Gold
+Netherlands,2020,Hockey,26,1,0,5,6,6,None
+Canada,2020,Athletics,19,0,0,0,6,0,Silver
+Canada,2020,Swimming,14,0,1,1,6,2,Gold
+Canada,2020,Gymnastics,21,1,2,0,6,3,Silver
+Canada,2020,Cycling,24,0,0,0,6,0,Silver
+Canada,2020,Rowing,13,0,0,0,6,0,Silver
+Canada,2020,Boxing,19,0,1,5,6,6,Gold
+Canada,2020,Wrestling,16,1,0,0,6,1,Gold
+Canada,2020,Weightlifting,25,0,0,0,6,0,None
+Canada,2020,Shooting,30,0,0,2,6,2,Gold
+Canada,2020,Archery,11,1,0,0,6,1,Silver
+Canada,2020,Fencing,12,1,0,0,6,1,Bronze
+Canada,2020,Judo,15,1,0,1,6,2,Gold
+Canada,2020,Sailing,7,0,0,0,6,0,None
+Canada,2020,Diving,7,1,2,0,6,3,Bronze
+Canada,2020,Hockey,17,1,3,0,6,4,Silver
+Brazil,2020,Athletics,19,0,1,0,6,1,Gold
+Brazil,2020,Swimming,27,0,1,3,6,4,None
+Brazil,2020,Gymnastics,17,1,1,0,6,2,Gold
+Brazil,2020,Cycling,11,1,0,0,6,1,Silver
+Brazil,2020,Rowing,5,1,0,0,6,1,Silver
+Brazil,2020,Boxing,4,1,0,0,6,1,None
+Brazil,2020,Wrestling,10,0,1,0,6,1,None
+Brazil,2020,Weightlifting,24,0,0,3,6,3,None
+Brazil,2020,Shooting,10,0,1,3,6,4,Gold
+Brazil,2020,Archery,12,0,0,0,6,0,Bronze
+Brazil,2020,Fencing,13,0,0,1,6,1,Silver
+Brazil,2020,Judo,13,0,0,2,6,2,Bronze
+Brazil,2020,Sailing,8,0,1,0,6,1,Gold
+Brazil,2020,Diving,5,0,0,0,6,0,None
+Brazil,2020,Hockey,29,0,0,1,6,1,None
+India,2020,Athletics,23,0,2,1,6,3,Gold
+India,2020,Swimming,6,0,0,0,6,0,None
+India,2020,Gymnastics,13,0,0,0,6,0,Silver
+India,2020,Cycling,8,0,2,0,6,2,Bronze
+India,2020,Rowing,8,0,0,1,6,1,Bronze
+India,2020,Boxing,29,0,0,0,6,0,None
+India,2020,Wrestling,26,0,0,0,6,0,None
+India,2020,Weightlifting,6,0,0,0,6,0,Bronze
+India,2020,Shooting,11,0,0,2,6,2,Silver
+India,2020,Archery,18,0,1,2,6,3,None
+India,2020,Fencing,24,0,0,0,6,0,Gold
+India,2020,Judo,24,0,0,1,6,1,Silver
+India,2020,Sailing,6,0,0,0,6,0,Bronze
+India,2020,Diving,5,1,0,1,6,2,Gold
+India,2020,Hockey,26,1,0,0,6,1,Gold
+Spain,2020,Athletics,20,1,2,0,6,3,Bronze
+Spain,2020,Swimming,10,0,1,1,6,2,Silver
+Spain,2020,Gymnastics,5,2,2,2,6,6,Gold
+Spain,2020,Cycling,30,0,1,0,6,1,Silver
+Spain,2020,Rowing,25,0,0,0,6,0,Silver
+Spain,2020,Boxing,13,1,1,0,6,2,Silver
+Spain,2020,Wrestling,18,0,0,0,6,0,Silver
+Spain,2020,Weightlifting,20,0,0,0,6,0,None
+Spain,2020,Shooting,7,0,1,0,6,1,None
+Spain,2020,Archery,25,1,0,0,6,1,Silver
+Spain,2020,Fencing,13,1,1,2,6,4,None
+Spain,2020,Judo,23,0,0,0,6,0,None
+Spain,2020,Sailing,8,1,0,0,6,1,Gold
+Spain,2020,Diving,26,0,0,0,6,0,Gold
+Spain,2020,Hockey,26,0,2,0,6,2,Bronze
+Hungary,2020,Athletics,25,0,0,0,6,0,Bronze
+Hungary,2020,Swimming,21,0,0,0,6,0,Gold
+Hungary,2020,Gymnastics,28,0,2,2,6,4,None
+Hungary,2020,Cycling,8,0,0,1,6,1,None
+Hungary,2020,Rowing,27,0,1,0,6,1,Gold
+Hungary,2020,Boxing,17,1,0,0,6,1,Bronze
+Hungary,2020,Wrestling,18,0,1,0,6,1,Gold
+Hungary,2020,Weightlifting,20,0,0,0,6,0,Bronze
+Hungary,2020,Shooting,30,0,0,1,6,1,Gold
+Hungary,2020,Archery,21,0,0,2,6,2,Bronze
+Hungary,2020,Fencing,9,2,1,0,6,3,Silver
+Hungary,2020,Judo,20,0,0,0,6,0,Gold
+Hungary,2020,Sailing,27,1,3,0,6,4,Gold
+Hungary,2020,Diving,14,1,0,0,6,1,None
+Hungary,2020,Hockey,6,2,0,0,6,2,Silver
+New Zealand,2020,Athletics,22,2,0,0,6,2,None
+New Zealand,2020,Swimming,25,0,0,1,6,1,Gold
+New Zealand,2020,Gymnastics,14,0,0,0,6,0,None
+New Zealand,2020,Cycling,11,0,2,0,6,2,None
+New Zealand,2020,Rowing,26,1,1,0,6,2,Bronze
+New Zealand,2020,Boxing,11,0,0,0,6,0,Gold
+New Zealand,2020,Wrestling,29,1,1,0,6,2,None
+New Zealand,2020,Weightlifting,26,1,3,0,6,4,Gold
+New Zealand,2020,Shooting,12,0,0,0,6,0,Gold
+New Zealand,2020,Archery,3,0,1,0,6,1,Silver
+New Zealand,2020,Fencing,24,0,0,0,6,0,Gold
+New Zealand,2020,Judo,11,2,0,0,6,2,Silver
+New Zealand,2020,Sailing,23,2,0,0,6,2,Bronze
+New Zealand,2020,Diving,17,0,1,0,6,1,Gold
+New Zealand,2020,Hockey,17,0,0,0,6,0,None
+Kenya,2020,Athletics,23,0,1,0,6,1,None
+Kenya,2020,Swimming,3,0,0,0,6,0,Silver
+Kenya,2020,Gymnastics,27,1,0,2,6,3,Silver
+Kenya,2020,Cycling,5,0,0,0,6,0,Bronze
+Kenya,2020,Rowing,15,0,0,0,6,0,Bronze
+Kenya,2020,Boxing,20,0,0,2,6,2,Silver
+Kenya,2020,Wrestling,29,1,1,1,6,3,Gold
+Kenya,2020,Weightlifting,16,0,0,0,6,0,Silver
+Kenya,2020,Shooting,18,1,0,1,6,2,None
+Kenya,2020,Archery,12,0,1,1,6,2,Gold
+Kenya,2020,Fencing,20,0,2,0,6,2,Bronze
+Kenya,2020,Judo,17,0,0,0,6,0,Gold
+Kenya,2020,Sailing,12,0,0,0,6,0,None
+Kenya,2020,Diving,22,0,0,1,6,1,Silver
+Kenya,2020,Hockey,28,1,0,0,6,1,Silver
+Jamaica,2020,Athletics,20,0,0,1,6,1,None
+Jamaica,2020,Swimming,25,0,0,0,6,0,Gold
+Jamaica,2020,Gymnastics,10,1,1,0,6,2,Gold
+Jamaica,2020,Cycling,17,0,0,1,6,1,Silver
+Jamaica,2020,Rowing,18,0,2,0,6,2,Bronze
+Jamaica,2020,Boxing,19,0,0,2,6,2,Gold
+Jamaica,2020,Wrestling,23,0,3,0,6,3,Silver
+Jamaica,2020,Weightlifting,2,1,2,0,6,3,Gold
+Jamaica,2020,Shooting,23,1,0,1,6,2,Bronze
+Jamaica,2020,Archery,16,0,3,0,6,3,Gold
+Jamaica,2020,Fencing,15,0,0,0,6,0,Silver
+Jamaica,2020,Judo,3,2,1,0,6,3,Silver
+Jamaica,2020,Sailing,23,0,1,0,6,1,None
+Jamaica,2020,Diving,15,1,0,1,6,2,None
+Jamaica,2020,Hockey,15,0,1,2,6,3,Silver
+Cuba,2020,Athletics,7,0,0,3,6,3,Bronze
+Cuba,2020,Swimming,8,0,0,2,6,2,Silver
+Cuba,2020,Gymnastics,11,0,0,0,6,0,Silver
+Cuba,2020,Cycling,3,1,1,0,6,2,None
+Cuba,2020,Rowing,2,0,0,0,6,0,Bronze
+Cuba,2020,Boxing,29,0,1,0,6,1,Silver
+Cuba,2020,Wrestling,27,0,0,1,6,1,Silver
+Cuba,2020,Weightlifting,29,0,0,0,6,0,Gold
+Cuba,2020,Shooting,30,1,1,0,6,2,Gold
+Cuba,2020,Archery,25,1,0,0,6,1,Silver
+Cuba,2020,Fencing,20,0,0,0,6,0,Gold
+Cuba,2020,Judo,26,0,0,2,6,2,None
+Cuba,2020,Sailing,30,0,0,0,6,0,Silver
+Cuba,2020,Diving,28,1,1,0,6,2,Gold
+Cuba,2020,Hockey,25,0,0,0,6,0,None
+United States,2024,Athletics,8,5,7,6,7,18,Gold
+United States,2024,Swimming,10,6,3,8,7,17,Gold
+United States,2024,Gymnastics,5,4,4,8,7,16,Gold
+United States,2024,Cycling,23,3,5,7,7,15,Gold
+United States,2024,Rowing,17,3,2,5,7,10,Gold
+United States,2024,Boxing,2,3,3,5,7,11,Gold
+United States,2024,Wrestling,27,6,4,5,7,15,Gold
+United States,2024,Weightlifting,27,3,5,6,7,14,Gold
+United States,2024,Shooting,24,3,5,5,7,13,Gold
+United States,2024,Archery,5,6,4,3,7,13,Gold
+United States,2024,Fencing,14,3,2,5,7,10,Gold
+United States,2024,Judo,11,4,4,4,7,12,Gold
+United States,2024,Sailing,30,3,4,9,7,16,Gold
+United States,2024,Diving,12,3,5,5,7,13,Gold
+United States,2024,Hockey,29,3,3,4,7,10,Gold
+China,2024,Athletics,17,6,5,6,7,17,Gold
+China,2024,Swimming,30,4,5,6,7,15,Gold
+China,2024,Gymnastics,7,6,5,7,7,18,Gold
+China,2024,Cycling,28,0,5,6,7,11,Gold
+China,2024,Rowing,24,3,4,3,7,10,Gold
+China,2024,Boxing,27,2,4,4,7,10,Gold
+China,2024,Wrestling,8,5,3,2,7,10,Gold
+China,2024,Weightlifting,18,4,4,4,7,12,Gold
+China,2024,Shooting,22,3,1,6,7,10,Gold
+China,2024,Archery,12,3,5,5,7,13,Gold
+China,2024,Fencing,6,2,2,6,7,10,Gold
+China,2024,Judo,8,3,6,5,7,14,Gold
+China,2024,Sailing,14,2,4,4,7,10,Gold
+China,2024,Diving,2,3,4,6,7,13,Gold
+China,2024,Hockey,22,4,5,6,7,15,Gold
+Japan,2024,Athletics,29,4,4,8,7,16,Gold
+Japan,2024,Swimming,15,4,7,5,7,16,Gold
+Japan,2024,Gymnastics,20,4,6,8,7,18,Gold
+Japan,2024,Cycling,15,5,4,4,7,13,Gold
+Japan,2024,Rowing,9,3,2,5,7,10,Gold
+Japan,2024,Boxing,29,2,3,4,7,9,Gold
+Japan,2024,Wrestling,15,3,3,0,7,6,Gold
+Japan,2024,Weightlifting,28,4,1,6,7,11,Gold
+Japan,2024,Shooting,6,3,3,5,7,11,Gold
+Japan,2024,Archery,9,2,3,5,7,10,Gold
+Japan,2024,Fencing,16,3,6,5,7,14,Gold
+Japan,2024,Judo,29,3,3,4,7,10,Gold
+Japan,2024,Sailing,24,4,5,3,7,12,Gold
+Japan,2024,Diving,4,4,5,3,7,12,Gold
+Japan,2024,Hockey,13,3,4,4,7,11,Gold
+Great Britain,2024,Athletics,27,2,5,5,7,12,Gold
+Great Britain,2024,Swimming,21,4,5,5,7,14,Gold
+Great Britain,2024,Gymnastics,23,3,5,4,7,12,Gold
+Great Britain,2024,Cycling,10,2,1,3,7,6,Silver
+Great Britain,2024,Rowing,12,3,4,2,7,9,Gold
+Great Britain,2024,Boxing,6,3,5,3,7,11,Gold
+Great Britain,2024,Wrestling,6,1,1,3,7,5,Gold
+Great Britain,2024,Weightlifting,15,2,4,9,7,15,Silver
+Great Britain,2024,Shooting,21,4,5,5,7,14,Gold
+Great Britain,2024,Archery,7,4,4,4,7,12,Gold
+Great Britain,2024,Fencing,26,1,0,3,7,4,Gold
+Great Britain,2024,Judo,16,3,5,6,7,14,Gold
+Great Britain,2024,Sailing,9,2,1,4,7,7,Gold
+Great Britain,2024,Diving,5,3,3,5,7,11,Gold
+Great Britain,2024,Hockey,3,4,3,6,7,13,Gold
+Russia,2024,Athletics,5,2,4,3,7,9,Silver
+Russia,2024,Swimming,5,3,4,5,7,12,Gold
+Russia,2024,Gymnastics,25,5,4,5,7,14,Gold
+Russia,2024,Cycling,30,2,2,2,7,6,Gold
+Russia,2024,Rowing,26,3,2,4,7,9,Gold
+Russia,2024,Boxing,4,1,4,4,7,9,Gold
+Russia,2024,Wrestling,11,5,3,3,7,11,Gold
+Russia,2024,Weightlifting,14,2,4,4,7,10,Gold
+Russia,2024,Shooting,2,4,2,5,7,11,Silver
+Russia,2024,Archery,23,3,1,2,7,6,Gold
+Russia,2024,Fencing,12,4,4,3,7,11,Gold
+Russia,2024,Judo,16,2,1,5,7,8,Gold
+Russia,2024,Sailing,20,2,2,6,7,10,Gold
+Russia,2024,Diving,27,2,2,7,7,11,Silver
+Russia,2024,Hockey,21,2,1,3,7,6,Gold
+Germany,2024,Athletics,7,4,4,4,7,12,Gold
+Germany,2024,Swimming,8,2,3,5,7,10,Gold
+Germany,2024,Gymnastics,11,2,3,2,7,7,Gold
+Germany,2024,Cycling,27,2,2,3,7,7,Bronze
+Germany,2024,Rowing,11,2,4,2,7,8,Gold
+Germany,2024,Boxing,13,3,2,4,7,9,Gold
+Germany,2024,Wrestling,30,0,3,4,7,7,Gold
+Germany,2024,Weightlifting,15,1,2,5,7,8,Gold
+Germany,2024,Shooting,15,1,1,2,7,4,Gold
+Germany,2024,Archery,23,4,2,4,7,10,Gold
+Germany,2024,Fencing,6,1,2,3,7,6,Gold
+Germany,2024,Judo,16,4,2,6,7,12,Gold
+Germany,2024,Sailing,17,0,3,6,7,9,Gold
+Germany,2024,Diving,9,2,3,4,7,9,Gold
+Germany,2024,Hockey,3,2,4,3,7,9,Gold
+France,2024,Athletics,15,4,6,5,7,15,Silver
+France,2024,Swimming,20,3,2,4,7,9,Gold
+France,2024,Gymnastics,2,3,2,4,7,9,Gold
+France,2024,Cycling,7,2,3,5,7,10,Gold
+France,2024,Rowing,24,1,2,3,7,6,Gold
+France,2024,Boxing,16,3,2,4,7,9,Gold
+France,2024,Wrestling,29,2,2,4,7,8,Gold
+France,2024,Weightlifting,4,2,2,0,7,4,Gold
+France,2024,Shooting,19,2,2,2,7,6,Gold
+France,2024,Archery,2,2,4,5,7,11,Gold
+France,2024,Fencing,25,2,3,2,7,7,Gold
+France,2024,Judo,21,2,3,3,7,8,Silver
+France,2024,Sailing,23,3,3,3,7,9,Gold
+France,2024,Diving,6,2,2,3,7,7,Silver
+France,2024,Hockey,8,2,3,4,7,9,Gold
+Australia,2024,Athletics,22,4,4,3,7,11,Gold
+Australia,2024,Swimming,19,2,2,4,7,8,Gold
+Australia,2024,Gymnastics,16,1,0,1,7,2,Silver
+Australia,2024,Cycling,25,3,2,3,7,8,Gold
+Australia,2024,Rowing,17,1,0,1,7,2,Gold
+Australia,2024,Boxing,28,4,1,4,7,9,Gold
+Australia,2024,Wrestling,2,1,3,3,7,7,Gold
+Australia,2024,Weightlifting,17,0,2,0,7,2,Gold
+Australia,2024,Shooting,19,3,3,1,7,7,Gold
+Australia,2024,Archery,25,3,3,2,7,8,Gold
+Australia,2024,Fencing,28,0,3,3,7,6,Gold
+Australia,2024,Judo,20,2,2,2,7,6,Gold
+Australia,2024,Sailing,30,1,3,1,7,5,Gold
+Australia,2024,Diving,22,3,2,4,7,9,Bronze
+Australia,2024,Hockey,2,3,2,1,7,6,Gold
+Italy,2024,Athletics,18,2,2,2,7,6,Gold
+Italy,2024,Swimming,12,1,2,3,7,6,Gold
+Italy,2024,Gymnastics,30,1,0,1,7,2,Gold
+Italy,2024,Cycling,15,0,2,1,7,3,Silver
+Italy,2024,Rowing,27,0,4,0,7,4,Gold
+Italy,2024,Boxing,8,1,2,2,7,5,Silver
+Italy,2024,Wrestling,8,1,2,1,7,4,Gold
+Italy,2024,Weightlifting,27,2,3,3,7,8,Gold
+Italy,2024,Shooting,3,2,2,0,7,4,Silver
+Italy,2024,Archery,10,1,3,1,7,5,Gold
+Italy,2024,Fencing,3,2,4,2,7,8,Gold
+Italy,2024,Judo,5,2,0,2,7,4,Silver
+Italy,2024,Sailing,12,2,2,0,7,4,Gold
+Italy,2024,Diving,26,1,0,2,7,3,Gold
+Italy,2024,Hockey,18,0,1,0,7,1,Gold
+South Korea,2024,Athletics,3,0,3,0,7,3,Gold
+South Korea,2024,Swimming,5,2,4,3,7,9,Gold
+South Korea,2024,Gymnastics,21,2,1,5,7,8,Gold
+South Korea,2024,Cycling,5,1,2,2,7,5,Gold
+South Korea,2024,Rowing,8,1,0,1,7,2,Gold
+South Korea,2024,Boxing,18,0,2,3,7,5,Gold
+South Korea,2024,Wrestling,6,0,0,2,7,2,Gold
+South Korea,2024,Weightlifting,16,1,2,2,7,5,Bronze
+South Korea,2024,Shooting,2,0,0,0,7,0,Gold
+South Korea,2024,Archery,4,0,0,0,7,0,Gold
+South Korea,2024,Fencing,15,1,2,0,7,3,Gold
+South Korea,2024,Judo,15,0,0,1,7,1,Silver
+South Korea,2024,Sailing,15,3,0,2,7,5,Gold
+South Korea,2024,Diving,27,1,1,1,7,3,Silver
+South Korea,2024,Hockey,16,4,3,1,7,8,Gold
+Netherlands,2024,Athletics,4,1,2,1,7,4,Gold
+Netherlands,2024,Swimming,26,0,2,3,7,5,Silver
+Netherlands,2024,Gymnastics,22,2,1,0,7,3,Gold
+Netherlands,2024,Cycling,22,1,1,1,7,3,Silver
+Netherlands,2024,Rowing,15,1,1,0,7,2,Gold
+Netherlands,2024,Boxing,19,2,0,4,7,6,Bronze
+Netherlands,2024,Wrestling,28,2,0,4,7,6,Gold
+Netherlands,2024,Weightlifting,6,0,3,1,7,4,Gold
+Netherlands,2024,Shooting,27,0,3,0,7,3,Bronze
+Netherlands,2024,Archery,13,1,3,1,7,5,Gold
+Netherlands,2024,Fencing,11,1,0,2,7,3,Gold
+Netherlands,2024,Judo,14,0,1,0,7,1,Gold
+Netherlands,2024,Sailing,11,0,0,3,7,3,Bronze
+Netherlands,2024,Diving,11,1,0,1,7,2,Gold
+Netherlands,2024,Hockey,27,0,0,0,7,0,Silver
+Canada,2024,Athletics,28,0,1,2,7,3,Gold
+Canada,2024,Swimming,3,2,0,5,7,7,Gold
+Canada,2024,Gymnastics,18,0,1,2,7,3,Silver
+Canada,2024,Cycling,11,0,1,0,7,1,Silver
+Canada,2024,Rowing,12,0,1,0,7,1,Bronze
+Canada,2024,Boxing,30,1,1,0,7,2,Gold
+Canada,2024,Wrestling,29,2,2,2,7,6,Silver
+Canada,2024,Weightlifting,24,0,0,0,7,0,None
+Canada,2024,Shooting,14,1,2,0,7,3,Gold
+Canada,2024,Archery,28,0,2,0,7,2,None
+Canada,2024,Fencing,6,0,0,1,7,1,Gold
+Canada,2024,Judo,30,3,2,1,7,6,Bronze
+Canada,2024,Sailing,4,0,0,0,7,0,Gold
+Canada,2024,Diving,14,0,0,1,7,1,Silver
+Canada,2024,Hockey,22,0,1,0,7,1,Silver
+Brazil,2024,Athletics,15,2,1,1,7,4,Silver
+Brazil,2024,Swimming,6,0,0,0,7,0,Silver
+Brazil,2024,Gymnastics,18,1,0,3,7,4,Bronze
+Brazil,2024,Cycling,17,0,2,2,7,4,Silver
+Brazil,2024,Rowing,5,0,1,0,7,1,Gold
+Brazil,2024,Boxing,5,0,0,0,7,0,None
+Brazil,2024,Wrestling,11,0,0,0,7,0,Silver
+Brazil,2024,Weightlifting,17,0,0,0,7,0,Silver
+Brazil,2024,Shooting,30,1,0,0,7,1,Gold
+Brazil,2024,Archery,7,0,0,1,7,1,Bronze
+Brazil,2024,Fencing,29,0,1,0,7,1,Gold
+Brazil,2024,Judo,11,0,0,2,7,2,Gold
+Brazil,2024,Sailing,25,1,1,0,7,2,Bronze
+Brazil,2024,Diving,6,0,0,0,7,0,Silver
+Brazil,2024,Hockey,29,0,0,0,7,0,None
+India,2024,Athletics,21,1,0,0,7,1,None
+India,2024,Swimming,19,0,0,0,7,0,None
+India,2024,Gymnastics,16,0,1,0,7,1,Gold
+India,2024,Cycling,20,0,0,1,7,1,Bronze
+India,2024,Rowing,11,0,0,1,7,1,None
+India,2024,Boxing,21,0,0,0,7,0,None
+India,2024,Wrestling,20,0,0,0,7,0,None
+India,2024,Weightlifting,23,0,0,1,7,1,None
+India,2024,Shooting,2,0,1,0,7,1,Silver
+India,2024,Archery,20,0,0,0,7,0,Silver
+India,2024,Fencing,21,1,0,0,7,1,Bronze
+India,2024,Judo,12,0,2,0,7,2,Silver
+India,2024,Sailing,29,0,0,1,7,1,None
+India,2024,Diving,19,1,3,0,7,4,Bronze
+India,2024,Hockey,10,1,2,1,7,4,Gold
+Spain,2024,Athletics,3,0,0,2,7,2,Bronze
+Spain,2024,Swimming,2,0,1,0,7,1,None
+Spain,2024,Gymnastics,30,1,0,1,7,2,Bronze
+Spain,2024,Cycling,28,0,1,0,7,1,Bronze
+Spain,2024,Rowing,9,0,2,1,7,3,None
+Spain,2024,Boxing,14,0,3,0,7,3,Gold
+Spain,2024,Wrestling,4,0,2,0,7,2,Gold
+Spain,2024,Weightlifting,9,0,0,0,7,0,Gold
+Spain,2024,Shooting,5,0,0,0,7,0,None
+Spain,2024,Archery,27,0,1,0,7,1,Bronze
+Spain,2024,Fencing,18,0,0,0,7,0,Gold
+Spain,2024,Judo,13,0,0,0,7,0,Gold
+Spain,2024,Sailing,19,1,0,0,7,1,None
+Spain,2024,Diving,16,1,0,0,7,1,Gold
+Spain,2024,Hockey,3,0,0,1,7,1,Gold
+Hungary,2024,Athletics,21,0,0,1,7,1,Silver
+Hungary,2024,Swimming,8,1,0,1,7,2,Silver
+Hungary,2024,Gymnastics,3,0,0,0,7,0,None
+Hungary,2024,Cycling,24,0,0,0,7,0,Gold
+Hungary,2024,Rowing,19,2,2,0,7,4,None
+Hungary,2024,Boxing,27,0,0,2,7,2,Gold
+Hungary,2024,Wrestling,12,4,0,0,7,4,Gold
+Hungary,2024,Weightlifting,23,0,0,1,7,1,None
+Hungary,2024,Shooting,16,1,2,0,7,3,Silver
+Hungary,2024,Archery,2,0,0,1,7,1,Gold
+Hungary,2024,Fencing,2,0,1,0,7,1,None
+Hungary,2024,Judo,26,1,0,0,7,1,Bronze
+Hungary,2024,Sailing,30,2,0,0,7,2,None
+Hungary,2024,Diving,23,0,0,0,7,0,Bronze
+Hungary,2024,Hockey,28,0,1,0,7,1,None
+New Zealand,2024,Athletics,27,0,0,0,7,0,Silver
+New Zealand,2024,Swimming,16,1,0,0,7,1,Gold
+New Zealand,2024,Gymnastics,26,0,0,0,7,0,Silver
+New Zealand,2024,Cycling,13,0,0,0,7,0,Bronze
+New Zealand,2024,Rowing,9,0,0,2,7,2,Gold
+New Zealand,2024,Boxing,13,1,0,0,7,1,Bronze
+New Zealand,2024,Wrestling,2,0,0,0,7,0,Gold
+New Zealand,2024,Weightlifting,14,1,0,0,7,1,Silver
+New Zealand,2024,Shooting,8,1,0,1,7,2,Gold
+New Zealand,2024,Archery,23,0,1,0,7,1,None
+New Zealand,2024,Fencing,6,1,0,1,7,2,None
+New Zealand,2024,Judo,9,0,1,1,7,2,Bronze
+New Zealand,2024,Sailing,2,0,0,2,7,2,Gold
+New Zealand,2024,Diving,19,1,0,0,7,1,Gold
+New Zealand,2024,Hockey,15,0,0,0,7,0,None
+Kenya,2024,Athletics,3,0,0,0,7,0,None
+Kenya,2024,Swimming,5,0,3,0,7,3,Gold
+Kenya,2024,Gymnastics,13,0,1,1,7,2,None
+Kenya,2024,Cycling,15,0,0,1,7,1,None
+Kenya,2024,Rowing,14,0,0,2,7,2,None
+Kenya,2024,Boxing,25,0,1,0,7,1,None
+Kenya,2024,Wrestling,4,2,2,1,7,5,Bronze
+Kenya,2024,Weightlifting,22,0,1,1,7,2,None
+Kenya,2024,Shooting,27,0,0,0,7,0,Silver
+Kenya,2024,Archery,9,1,0,0,7,1,Gold
+Kenya,2024,Fencing,12,0,0,1,7,1,Silver
+Kenya,2024,Judo,4,1,1,0,7,2,Gold
+Kenya,2024,Sailing,26,0,0,0,7,0,None
+Kenya,2024,Diving,3,0,1,1,7,2,Gold
+Kenya,2024,Hockey,24,0,1,0,7,1,Gold
+Jamaica,2024,Athletics,11,0,0,0,7,0,Bronze
+Jamaica,2024,Swimming,5,1,0,1,7,2,None
+Jamaica,2024,Gymnastics,5,2,0,0,7,2,None
+Jamaica,2024,Cycling,29,0,2,1,7,3,Gold
+Jamaica,2024,Rowing,27,0,0,2,7,2,Bronze
+Jamaica,2024,Boxing,5,1,0,0,7,1,Bronze
+Jamaica,2024,Wrestling,12,0,1,0,7,1,Silver
+Jamaica,2024,Weightlifting,2,1,0,0,7,1,None
+Jamaica,2024,Shooting,20,0,0,1,7,1,None
+Jamaica,2024,Archery,13,1,2,0,7,3,Silver
+Jamaica,2024,Fencing,27,0,2,1,7,3,Silver
+Jamaica,2024,Judo,20,0,2,0,7,2,Silver
+Jamaica,2024,Sailing,30,0,0,0,7,0,Silver
+Jamaica,2024,Diving,17,0,0,0,7,0,None
+Jamaica,2024,Hockey,20,0,2,1,7,3,Silver
+Cuba,2024,Athletics,9,0,0,1,7,1,None
+Cuba,2024,Swimming,8,0,2,0,7,2,Bronze
+Cuba,2024,Gymnastics,8,0,2,0,7,2,Silver
+Cuba,2024,Cycling,16,0,0,0,7,0,None
+Cuba,2024,Rowing,20,0,0,1,7,1,None
+Cuba,2024,Boxing,5,0,2,0,7,2,None
+Cuba,2024,Wrestling,3,0,2,1,7,3,Gold
+Cuba,2024,Weightlifting,16,2,0,2,7,4,None
+Cuba,2024,Shooting,25,1,3,1,7,5,None
+Cuba,2024,Archery,14,0,1,3,7,4,None
+Cuba,2024,Fencing,13,1,0,0,7,1,Silver
+Cuba,2024,Judo,16,0,0,0,7,0,Gold
+Cuba,2024,Sailing,26,0,1,0,7,1,Bronze
+Cuba,2024,Diving,9,1,1,0,7,2,Silver
+Cuba,2024,Hockey,12,0,0,0,7,0,Gold

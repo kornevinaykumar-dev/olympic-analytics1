@@ -1,0 +1,40 @@
+:root{
+  --bg:#0b1020; --surface:#121933; --surface-2:#1a2347; --text:#e8ecf8;
+  --muted:#9aa6c7; --primary:#3b82f6; --accent:#22d3ee; --gold:#facc15;
+  --silver:#cbd5e1; --bronze:#d97706; --danger:#ef4444; --success:#10b981;
+  --border:rgba(255,255,255,.08);
+}
+*{box-sizing:border-box}
+html,body{background:var(--bg);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;min-height:100vh;margin:0}
+a{color:var(--accent);text-decoration:none}
+.navbar{background:linear-gradient(90deg,#0b1020,#152049)!important;border-bottom:1px solid var(--border)}
+.navbar-brand{font-weight:700;letter-spacing:.3px;color:#fff!important}
+.nav-link{color:var(--muted)!important}
+.nav-link.active,.nav-link:hover{color:#fff!important}
+.card{background:var(--surface);border:1px solid var(--border);border-radius:16px;color:var(--text)}
+.card-header{background:transparent;border-bottom:1px solid var(--border);font-weight:600}
+.stat-card{background:linear-gradient(135deg,var(--surface),var(--surface-2));border-radius:16px;padding:1.2rem;border:1px solid var(--border)}
+.stat-card .label{color:var(--muted);font-size:.85rem;text-transform:uppercase;letter-spacing:.08em}
+.stat-card .value{font-size:2rem;font-weight:700;margin-top:.25rem}
+.stat-card .icon{font-size:1.6rem;opacity:.7}
+.table{color:var(--text)}
+.table thead{background:var(--surface-2)}
+.table>:not(caption)>*>*{background:transparent;color:var(--text);border-bottom-color:var(--border)}
+.form-control,.form-select{background:var(--surface-2);border:1px solid var(--border);color:var(--text)}
+.form-control:focus,.form-select:focus{background:var(--surface-2);border-color:var(--primary);color:var(--text);box-shadow:0 0 0 .2rem rgba(59,130,246,.25)}
+.btn-primary{background:var(--primary);border-color:var(--primary)}
+.btn-primary:hover{background:#2563eb;border-color:#2563eb}
+.btn-outline-light{border-color:var(--border)}
+.medal-gold{color:var(--gold);font-weight:700}
+.medal-silver{color:var(--silver);font-weight:700}
+.medal-bronze{color:var(--bronze);font-weight:700}
+.auth-wrap{min-height:100vh;display:flex;align-items:center;justify-content:center;padding:2rem;background:radial-gradient(circle at 20% 20%,#1d2a5c,transparent 40%),radial-gradient(circle at 80% 80%,#0e2b3c,transparent 45%),var(--bg)}
+.auth-card{max-width:440px;width:100%;padding:2.2rem;border-radius:18px;background:var(--surface);border:1px solid var(--border)}
+.hero-title{font-size:1.6rem;font-weight:700}
+.muted{color:var(--muted)}
+.chart-box{position:relative;height:300px}
+.badge-soft{background:rgba(59,130,246,.12);color:#93c5fd;padding:.3rem .55rem;border-radius:999px;font-size:.75rem}
+.insights-text{white-space:pre-wrap;line-height:1.6;color:var(--text)}
+.spinner{display:inline-block;width:1rem;height:1rem;border:2px solid #fff3;border-top-color:#fff;border-radius:50%;animation:spin .8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.footer{color:var(--muted);text-align:center;padding:1.5rem;border-top:1px solid var(--border);margin-top:3rem}

@@ -1,0 +1,38 @@
+<!doctype html><html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Register | Olympic Analytics</title>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css"></head>
+<body><div class="auth-wrap"><div class="auth-card">
+<div class="text-center mb-4"><div style="font-size:2.4rem">🏅</div>
+<div class="hero-title">Create your account</div>
+<div class="muted">Join the Olympic Analytics platform</div></div>
+<form id="regForm">
+  <div class="mb-3"><label class="form-label">Full Name</label>
+  <input class="form-control" name="name" required maxlength="120"></div>
+  <div class="mb-3"><label class="form-label">Email</label>
+  <input type="email" class="form-control" name="email" required></div>
+  <div class="mb-3"><label class="form-label">Password</label>
+  <input type="password" class="form-control" name="password" required minlength="8"></div>
+  <div class="mb-3"><label class="form-label">Confirm Password</label>
+  <input type="password" class="form-control" name="confirm_password" required minlength="8"></div>
+  <button class="btn btn-primary w-100" id="submitBtn">Create Account</button>
+</form>
+<div class="text-center mt-3 muted">Already registered? <a href="login.html">Sign in</a></div>
+</div></div>
+<script src="js/app.js"></script>
+<script>
+document.getElementById("regForm").addEventListener("submit", async (e)=>{
+  e.preventDefault();
+  const fd = new FormData(e.target);
+  const payload = Object.fromEntries(fd.entries());
+  if(payload.password !== payload.confirm_password){ toast("Passwords do not match","error"); return; }
+  const btn = document.getElementById("submitBtn");
+  btn.disabled = true; btn.innerHTML='<span class="spinner"></span> Creating…';
+  try{
+    await api("/register",{method:"POST",body:JSON.stringify(payload)});
+    toast("Account created — please sign in","success");
+    setTimeout(()=>window.location.href="login.html", 800);
+  }catch(err){ toast(err.message,"error"); btn.disabled=false; btn.textContent="Create Account"; }
+});
+</script></body></html>
